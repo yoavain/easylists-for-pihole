@@ -1,5 +1,5 @@
-import type { InputType } from "~resources/input";
-import { getInput } from "~resources/input";
+import { AdBlockPlusInput } from "~resources/adBlockPlusInput";
+import type { AdBlockPlus } from "~resources/adBlockPlusInput";
 import got from "got";
 import * as path from "path";
 import * as fs from "fs";
@@ -13,16 +13,13 @@ const getUniqueLinesSorted = (input: string | string[]): string[] => {
     return Array.from(new Set(lines)).sort();
 };
 
-const fetchAllDomainsForSingleTarget = async (targetFile: string, inputUrls: string[], stats?: Stats): Promise<string> => {
-    const domains: string[] = await Promise.all(inputUrls.map(async (inputUrl: string, index:number): Promise<string> => {
-        const text: string = await got.get(inputUrl).text();
-        const rawFilePath: string = path.join(__dirname, "..", "raw", `${targetFile}-input${index}.txt`);
-        await fsPromises.writeFile(rawFilePath, text, { encoding: "utf8" });
-        const filteredDomains: string[] = filterDomains(text);
-        stats[inputUrl] = filteredDomains.length;
-        return filteredDomains.join("\n");
-    }));
-    return getUniqueLinesSorted(domains).join("\n");
+const fetchAllDomainsForSingleTarget = async (targetFile: string, inputUrl: string, stats?: Stats): Promise<string> => {
+    const text: string = await got.get(inputUrl).text();
+    const rawFilePath: string = path.join(__dirname, "..", "raw", `${targetFile}-input.txt`);
+    await fsPromises.writeFile(rawFilePath, text, { encoding: "utf8" });
+    const filteredDomains: string[] = filterDomains(text);
+    stats[inputUrl] = filteredDomains.length;
+    return getUniqueLinesSorted(filteredDomains).join("\n");
 };
 
 export const filterDomains = (content: string): string[] => {
@@ -42,11 +39,12 @@ export const filterDomains = (content: string): string[] => {
 
 export const parse = async (): Promise<Stats> => {
     const stats: Stats = {};
-    const input: InputType = getInput();
-    await Promise.all(Object.keys(input).map(async (targetFile: string) => {
-        const targetFilename = `${targetFile}.txt`;
+    const input: AdBlockPlus[] = AdBlockPlusInput;
+    await Promise.all(input.map(async (input: AdBlockPlus) => {
+        const targetFilename: string = input.url.split("/").pop();
+        const targetFile: string = targetFilename.split(".")[0];
         const targetFilePath: string = path.join(__dirname, "..", "generated", targetFilename);
-        const filteredDomains: string = await fetchAllDomainsForSingleTarget(targetFile, input[targetFile], stats);
+        const filteredDomains: string = await fetchAllDomainsForSingleTarget(targetFile, input.url, stats);
         await fsPromises.writeFile(targetFilePath, filteredDomains, "utf-8");
     }));
     return stats;

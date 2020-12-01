@@ -30,6 +30,7 @@
     "node": ">=12"
   },
   "dependencies": {
+    "adblockpluscore": "git+https://gitlab.com/eyeo/adblockplus/adblockpluscore.git",
     "got": "11.8.1"
   },
   "devDependencies": {

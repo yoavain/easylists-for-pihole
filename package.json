@@ -34,7 +34,7 @@
         "npm": ">= 9"
     },
     "dependencies": {
-        "got": "11.8.6"
+        "got": "14.0.0"
     },
     "devDependencies": {
         "@tsconfig/node18": "18.2.2",

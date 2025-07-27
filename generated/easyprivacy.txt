@@ -4052,6 +4052,7 @@ analytics.lifestyledemocracy.com
 analytics.littlekingdesigns.com
 analytics.livesense.marketing
 analytics.livestream.com
+analytics.loadweb.com
 analytics.logsss.com
 analytics.lunaweb.cloud
 analytics.lunge.de
@@ -5887,6 +5888,7 @@ bibglj.timberland.fr
 bicp-analytics.postscript.io
 bidder.mediams.mb.softbank.jp
 bidgx.com
+bidpapers.com
 bidswitch.net
 bienvenido.americanindustriesgroup.com
 bigcustomernetwork.actonservice.com
@@ -22142,6 +22144,7 @@ scrippscookingchannel.cookingchanneltv.com
 scrippsfoodnetnew.foodnetwork.com
 scrippshgtvnew.hgtv.com
 script.ac
+scripts.dadata.com.br
 scripts.psyma.com
 scrollservice.com
 scrubswim.com

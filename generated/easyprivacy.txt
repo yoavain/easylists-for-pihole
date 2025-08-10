@@ -29681,6 +29681,7 @@ tracking.nsladies.de
 tracking.ntl.no
 tracking.nymphomaneladies.de
 tracking.ocr.ca
+tracking.offerista.com
 tracking.ohiohealth.com
 tracking.oldnational.com
 tracking.omniture.nt.se
@@ -30526,6 +30527,7 @@ ucmetrics.unicreditbanca.it
 ucmetrics.unicreditgroup.eu
 ucounter.ucoz.net
 ucppeo.silux.hr
+uct.service.usercentrics.eu
 udblog.huya.com
 udgrbq.malwarebytes.com
 udicje.perrys.co.uk

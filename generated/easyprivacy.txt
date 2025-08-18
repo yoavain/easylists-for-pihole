@@ -3922,6 +3922,7 @@ analytics.combatefreestyle.com
 analytics.competitoor.com
 analytics.conad.it
 analytics.concorsicartoonito.it
+analytics.consumerrights.wiki
 analytics.contentexchange.me
 analytics.convertlanguage.com
 analytics.cookiefirst.dev
@@ -8368,6 +8369,7 @@ dataofpages.com
 datas.connectingthreads.com
 datas.knitpicks.com
 datas3ntinel.com
+datasphere-sbsvc.sharethis.com
 datum.appfleet.com
 datum.jsdelivr.com
 dav.davrontech.com

@@ -3454,6 +3454,8 @@ adppartner.solutions.adpinfo.com
 adpromo.peppynet.com
 adrtx.net
 ads-collector.luizalabs.com
+ads-tracking.beop.io
+ads-tracking.collectiveaudience.co
 ads-trk.vidible.tv
 ads.dandelionchocolate.jp
 ads.tikpage.com
@@ -7466,7 +7468,6 @@ content22.citibank.com.au
 content22.citibankonline.com
 content22.online.citi.com
 contentcamera.com
-contents-tracking.beop.io
 contents.pwc.com
 contoso-my.sharepoint.com
 contractor-app.buildforce.com
@@ -27584,6 +27585,7 @@ stats.toiletmap.org.uk
 stats.topofblogs.com
 stats.tou.tv
 stats.tradingacademy.com
+stats.traffective.cloud
 stats.training.fit
 stats.travelfodder.com
 stats.trenntoi.de
@@ -28078,6 +28080,7 @@ swebstats.us.aimia.com
 swebtraffic.executiveboard.com
 sweetslope.com
 swellstocking.com
+swiftintro.com
 swim2000.actonservice.com
 swimfreely.com
 swingslip.com

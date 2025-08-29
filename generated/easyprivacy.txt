@@ -6386,6 +6386,7 @@ bvexmf.bigtv.ru
 bvr.ast.snva.jp
 bvr.snva.jp
 bvubje.leboncoin.fr
+bwapi.bikerumor.com
 bwj4.hrhibiza.com
 bwkpkx.projectxparis.com
 bwspqc.bloomonline.jp
@@ -7060,6 +7061,7 @@ collect.usefathom.com
 collect.vans.com.cn
 collect.verify.lnearn.com
 collect2.allianz.ch
+collection.mola.tv
 collection.saga.co.uk
 collections.equifax.com
 collector-1.ex.co
@@ -19121,6 +19123,8 @@ nhnazx.outdoorlook.co.uk
 nhqkbl.semilac.pl
 ni8.lafuma.com
 niblewren.co
+nid.thesun.co.uk
+nid.thetimes.com
 nidays.austria.ni.com
 nidays.suisse.ni.com
 nidays.switzerland.ni.com
@@ -28408,7 +28412,6 @@ target.maxxia.com.au
 target.miaprova.com
 target.michaels.com
 target.microchip.com
-target.microsoft.com
 target.mirtesen.ru
 target.mixi.media
 target.monaco.pwc.fr

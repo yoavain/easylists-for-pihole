@@ -3955,6 +3955,7 @@ analytics.discountpowertx.com
 analytics.disney.go.com
 analytics.disneyinternational.com
 analytics.disneyplus.com
+analytics.dv.socure.io
 analytics.dvidshub.net
 analytics.edgekey.net
 analytics.egdata.app
@@ -4301,6 +4302,7 @@ analytics.wayland.app
 analytics.webgains.io
 analytics.webpushr.com
 analytics.websolute.it
+analytics.webynize.com
 analytics.weldonowen.com
 analytics.wellington.com
 analytics.whostheboss.co.uk
@@ -8601,6 +8603,7 @@ dev.smartrbuyer.com
 dev.sswt.co
 devacton.simpleviewinc.com
 development.me.thequad.com
+deviceinf.com
 devilishdinner.com
 devlink.saganworks.com
 devlink.sprive.com
@@ -10749,6 +10752,7 @@ fpt.microsoft.com
 fptls.com
 fptls2.com
 fptls3.com
+fptls4.com
 fpvrgm.blackforestdecor.com
 fpxewa.ilmeteo.it
 fq9vy0muyqi3.www.madrigalmaps.com
@@ -19258,6 +19262,7 @@ nqozgp.botland.com.pl
 nqxnvy.levi.com.hk
 nqyuel589fq5.esgrounding.com
 nr-data.noelleeming.co.nz
+nr-js.imaios.com
 nra.locktonaffinity.net
 nrjcur.pomelofashion.com
 nrpukcsgboqr0gz2o8.www.bolighub.dk
@@ -19721,6 +19726,7 @@ optimisation.coop.co.uk
 optimisation.data.lloydsbankinggroup.com
 optimize.mcafee.com
 optimizely.techtarget.com
+optimizer.poxo.com
 optionen.hager.de
 optis-world.actonservice.com
 optistats.ovh
@@ -19779,6 +19785,7 @@ osur.dell.com
 osuwzo.oyunfor.com
 osvdtm.theshopyohjiyamamoto.jp
 otel-collector.lenta.tech
+otel-mobile.doordash.com
 othanasis.openapp.link
 othisf.tagomago.pl
 otisxx.sullyn.com
@@ -20560,6 +20567,7 @@ pristinegale.com
 privacy.outdoorsg.com
 privacyfriendly.netlify.app
 private.roche.com
+private.wccftech.com
 privateclient.hubinternational.com
 prkvlr.camper.com
 prnzxf.glamira.se
@@ -20773,6 +20781,7 @@ q777.sfchronicle.com
 q88.actonservice.com
 qa-branch-app.liketoknow.it
 qa-brc.emails.rakuten.com
+qa-events-schema.viacom.tech
 qa-go.ebat.es
 qa-link.californiapsychics.com
 qa-prod.branch.rocks
@@ -21513,6 +21522,7 @@ rum.azion.com
 rum.azioncdn.net
 rum.condenastdigital.com
 rum.corewebvitals.io
+rum.cronitor.io
 rum.hlx.page
 rum.marquardmedia.hu
 rum.mauve.eu
@@ -26868,6 +26878,7 @@ stat.jogaszvilag.hu
 stat.juridicas.com
 stat.jusnetkarnovgroup.pt
 stat.kaago.com
+stat.khanate.pro
 stat.kiwibank.co.nz
 stat.kkpp.cz
 stat.kleos.cz
@@ -27321,6 +27332,7 @@ stats.lippeshirts.de
 stats.literacysomerset.org
 stats.literaturkreis.online
 stats.lmdsp.com
+stats.lmofficial.to
 stats.locallabs.com
 stats.localmetravel.com
 stats.lord.io
@@ -28932,6 +28944,7 @@ tms.danzz.ch
 tms.eharmony.ca
 tms.fmm.io
 tms.hft.everyplate.com
+tms.hft.goodchop.com
 tms.hft.greenchef.com
 tms.hft.hellofresh.com
 tmt.intelligence.informa.com
@@ -29231,6 +29244,7 @@ tracker-aa.paf.es
 tracker-aa.pafbetscore.lv
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracker-dot-optimeeze.appspot.com
+tracker-remp.active.radio
 tracker-v4.gamedock.io
 tracker.adbinead.com
 tracker.affiliate.iqbroker.com

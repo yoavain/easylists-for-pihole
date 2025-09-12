@@ -18163,6 +18163,7 @@ metrics.radissonhotelsamericas.com
 metrics.rainbowmagic.co.uk
 metrics.ralphlauren.com
 metrics.ralphlauren.fr
+metrics.rapidedge.io
 metrics.rarediseasesignup.com
 metrics.rbcgam.com
 metrics.rbcgma.com
@@ -28828,6 +28829,7 @@ thebasiccompanies.actonservice.com
 thebdx.actonservice.com
 thebigvan.com
 thecea.actonservice.com
+thecrazychili.com
 thefishstops.com
 thefontzone.com
 thejavalane.com
@@ -29957,6 +29959,7 @@ traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
 traffic.taktikal.is
 traffic.wdc.center
+trafficid.brandwell.ai
 trail.cleardocs.com
 trail.dominiosistemas.com.br
 trail.sweetandmaxwell.co.uk
@@ -30060,6 +30063,7 @@ triton.companyegg.com
 triumph.actonservice.com
 trjs2.mediafin.be
 trk-branch.balinea.com
+trk-brevinate.com
 trk-maiorum.com
 trk.adbutter.net
 trk.admmontreal.com

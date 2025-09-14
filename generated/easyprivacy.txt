@@ -7083,6 +7083,7 @@ collector.betway.be
 collector.betway.com
 collector.cint.com
 collector.clareity.net
+collector.ex.co
 collector.fiverr.com
 collector.getyourguide.com
 collector.github.com
@@ -9297,6 +9298,7 @@ education.moodybible.org
 education.ricoh.ch
 education.ricoh.fr
 education.velocify.com
+educationcar.com
 educontinua.javeriana.edu.co
 educrated.com
 ee93.pandasuite.io
@@ -10091,6 +10093,7 @@ event-listener.air.tv
 event-logger.tagboard.com
 event-router.olympics.com
 event-service.letslinc.com
+event-store.sitebehaviour.com
 event-stream.spot.im
 event-tracker-library.mediaownerscloud.com
 event-tracking.hellohealthgroup.com
@@ -12542,6 +12545,7 @@ ineed2s.ro
 inencr.woodhouseclothing.com
 inetprocess.actonservice.com
 infamousstream.com
+infinityhedge.com
 infinityid.condenastdigital.com
 infisecure.com
 influencer.picklebutnotcucumber.com
@@ -18974,6 +18978,7 @@ naidileobram.actonservice.com
 naivestatement.com
 nakisa.actonservice.com
 nala.headuplabs.com
+nam.veta.naver.com
 namcah.alipearlhair.com
 namrinfo.motorolasolutions.com
 nanalytics.virginaustralia.com
@@ -29015,6 +29020,7 @@ toytakeover.com
 tpe.theparticipanteffect.com
 tpfrro.justlease.nl
 tpmexb.vans.co.nz
+tps.trovaprezzi.it
 tpubrk.eobuv.com
 tpx.tesseradigital.com
 tqbdio.medicare.pt

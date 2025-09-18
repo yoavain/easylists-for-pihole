@@ -7609,7 +7609,6 @@ counter.ukr.net
 counter.webmart.de
 counter.websitevoice.com
 counter.yadro.ru
-counter2.blog.livedoor.com
 counter247.live
 counters.freewebs.com
 counters.libertaddigital.com
@@ -28994,6 +28993,7 @@ tongji.techweb.com.cn
 tongji.xinmin.cn
 tongkhohangnhat.abphotos.link
 toolcapital.com
+toolforthought.com
 tools.ricoh.co.uk
 tools.ricoh.de
 toomanyalts.com

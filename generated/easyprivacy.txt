@@ -6931,6 +6931,7 @@ cloud.trapptechnology.com
 cloud.webtrack.online
 clouderrorreporting.googleapis.com
 cloudfront-labs.amazonaws.com
+cloudguppy.com
 cloudhosting-business.vodafone.com
 cloudhosting.actonservice.com
 cloudhustles.com
@@ -7241,6 +7242,7 @@ confiaen.legalitas.com
 confiant-integrations.global.ssl.fastly.net
 confiant-integrations.net
 confiant.msn.com
+confidencetalks.com
 configchain.com
 configure.adlermode.com
 confirm.aon.com
@@ -8396,6 +8398,7 @@ datum.appfleet.com
 datum.jsdelivr.com
 dav.davrontech.com
 dax.yle.fi
+daybreaklights.com
 daymodern.com
 dazdmx.cobra.fr
 dazzlingbook.com
@@ -10520,6 +10523,7 @@ filbrandtco.actonservice.com
 filemobile.actonservice.com
 files.info.posteitaliane.it
 files.urlinsgroup.com
+fillthemap.com
 filmoljupci.com
 filtercutter.com
 fimyxg.bloomberght.com
@@ -11532,6 +11536,7 @@ haltingdivision.com
 halvwk.jetcost.ie
 hambtr.unilife.co.jp
 hammerhearing.com
+hamsterspot.com
 hanadev.branch.rocks
 hanastage.branch.rocks
 hanatest.branch.rocks
@@ -22778,6 +22783,7 @@ sicas.ikea.com
 sicas.ikea.net
 sicksmash.com
 sid.nordstrom.com
+siderain.com
 sierrakermit.com
 siewmi.uncommongoods.com
 sig.ig.com
@@ -27900,6 +27906,7 @@ studentadvantage.actonservice.com
 studio.joinsalut.com
 study.jcu.edu.au
 study.vu.edu.au
+studycooking.com
 stupendoussleet.com
 stupendoussnow.com
 stupidscene.com

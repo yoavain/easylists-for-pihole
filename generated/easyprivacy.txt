@@ -3858,6 +3858,7 @@ analytics.amakings.com
 analytics.americanfunds.com
 analytics.amig.com
 analytics.andrewsmith.com.au
+analytics.api.justeattakeaway.com
 analytics.apnewsregistry.com
 analytics.archive.org
 analytics.argeton.com
@@ -8011,6 +8012,7 @@ data.ajostg.colonialfirststate.com.au
 data.ajotest.cbussuper.com.au
 data.alert.servicenow.com
 data.allstate.com
+data.armexfort.uk
 data.articles.ringcentral.com
 data.atea.no
 data.auchandirect.fr
@@ -9247,6 +9249,7 @@ ebwupu.superbrightleds.com
 ebxirc.taylorstitch.com
 ecctjf.leroymerlin.com.br
 ecefyu.geox.com
+echoacloud.com
 echoinghaven.com
 eclick.baidu.com
 ecn-analytics-nssl.emc.com
@@ -10041,6 +10044,7 @@ etppmr.luko.eu
 etrack.ext.arubainstanton.com
 etrack.ext.arubanetworks.com
 etrack.ext.hpe.com
+etracker.noon.com
 ets.ni.com
 etscampaign.motorola.com
 etui.fs.ml.com
@@ -10108,6 +10112,7 @@ event-stream.spot.im
 event-tracker-library.mediaownerscloud.com
 event-tracking.hellohealthgroup.com
 event.api.drift.com
+event.api.instant.one
 event.boozallen.com
 event.clubcorp.com
 event.collector.scopely.io
@@ -11957,6 +11962,7 @@ icas.ikea.net
 icaubf.casamundo.de
 icfckg.myft.com.br
 icg-in.com
+icg-in.info
 icharts.actonservice.com
 icoktb.onygo.com
 iconmediapixel.com
@@ -13901,6 +13907,7 @@ kistacity.viessmann.se
 kit22.com
 kitchen.juicer.cc
 kitetuning.com
+kittycatking.com
 kiwi.mdldb.net
 kjdfho.eidaihouse.com
 kjjuuy.icaniwill.fi
@@ -22123,6 +22130,7 @@ schwaebischhall.efscle.com
 sci.intuit.ca
 sci.intuit.com
 sci.quickbooks.com
+science.ctf.gg
 science.schoolspecialtynews.com
 sciencedart.com
 scientificshirt.com
@@ -27984,6 +27992,7 @@ summerobject.com
 summit.edm.globalsources.com
 suncanny.marvel.com
 suncanny.marvelhq.com
+sunsetcampfires.com
 sunsetstatic.com
 sunshinegates.com
 sunshinepint.com
@@ -30717,6 +30726,7 @@ upqmpu.leasingtime.de
 upscaledigest.com
 upstats.yadro.ru
 uptime.fastrr.com
+uptime2.fastrr.com
 uptvmovies.uptv.com
 upwkcv.vidaxl.ro
 upwwgd.zentempel.com

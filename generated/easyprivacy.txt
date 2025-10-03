@@ -18972,6 +18972,7 @@ my-staging.villa.ge
 my-testing.tsgo.io
 mya.actonservice.com
 myakiu.trendhim.ch
+myangular.life
 myapp.branch.rocks
 mybjjg.vlan.be
 mycomm2.hackensackmeridian.org
@@ -28818,6 +28819,7 @@ test.open.ggwpacademy.com
 test.openapp.link
 test.paradyz.com
 test.pooler.io
+test.showvid.ws
 test.siriusdecisions.com
 test.smrtp.link
 test.spenn.com

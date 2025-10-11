@@ -19298,6 +19298,7 @@ now.infinitecampus.com
 now.myfashionevents.com
 now.tana.fi
 now.wealthmanagement.com
+nowaymail.com
 nparallel.actonservice.com
 npczil.maxandco.com
 npfopn.mix.tokyo
@@ -31278,7 +31279,6 @@ video.bzfd.it
 video.funnelbox.com
 video.verintsystemsinc.com
 video.vitcord.com
-videocdnmetrika.com
 videoevents.outbrain.com
 videoplayerhub.com
 videos.adp.ca

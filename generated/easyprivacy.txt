@@ -6549,6 +6549,7 @@ caradonna.actonservice.com
 card.getgifted.com
 card.pingpro.com
 cardinalretirement.actonservice.com
+cardmethod.com
 care.excellence.kaweahhealth.org
 care.mercycare.org
 care.oakstreethealth.com
@@ -11555,6 +11556,7 @@ h353.ncadvertiser.com
 h559.stamfordadvocate.com
 h5log.zongheng.com
 hacx60.com
+haikusoap.com
 hal.courrierinternational.com
 halcyoncanyon.com
 halcyonsculpture.com
@@ -20201,6 +20203,7 @@ pickmicro.com
 piddme.buyma.com
 pietexture.com
 pigeonsetc.com
+pigmentpaper.com
 pimpoint.inriver.com
 pinchsquirrel.com
 pincourse.com
@@ -21033,6 +21036,7 @@ rabbitbreath.com
 rabbitrifle.com
 rac.ruutu.fi
 racemanager-app.sapsailing.com
+rackforstorage.com
 radar.imgsmail.ru
 radiantcanopy.com
 radiantlullaby.com
@@ -29064,6 +29068,7 @@ top3.inhaabit.com
 topbookgifts.com
 topcrazypress.com
 topspin.npo.nl
+topthrowbacks.com
 toronto-content.cresa.com
 torropinto.viessmann.es
 toto.pandasuite.io
@@ -32441,6 +32446,7 @@ you.stage.pixellot.link
 youate.co
 youborafds01.com
 youboranqs01.com
+youcandrawanything.com
 your.maas.ptvgroup.com
 your.mapandguide.ptvgroup.com
 your.mapandmarket.ptvgroup.com

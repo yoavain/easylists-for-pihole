@@ -6365,6 +6365,7 @@ bubblewrapp.actonservice.com
 bubblyaction.com
 budibu.saksfifthavenue.com
 buf.lemonde.fr
+buffet.identityservices.io
 bugjyl.jkattire.co.uk
 bugpizza.com
 bugsnag.shopbop.amazon.dev
@@ -10698,6 +10699,7 @@ foambench.com
 fog.pixual.co
 fokbrd.impo.ch
 followborder.com
+fontserif.com
 food.informaengage.com
 food.pentonmarketingsvcs.com
 foodbrochure.advancedtech.com
@@ -16965,6 +16967,7 @@ maui.shakaguide.com
 maxclientstatapi.com
 maxcruisers.com
 maxepv.com
+maybetony.com
 maz.zba.jp
 mb-tracking.com
 mbaco.actonservice.com
@@ -21041,6 +21044,7 @@ query1.petametrics.com
 quest.epoise.com
 questintegrity.actonservice.com
 question.snapiio.com
+questionate.com
 questions.theanswerco.com
 questrominfo.bu.edu
 questtest.epoise.com

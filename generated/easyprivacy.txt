@@ -6560,6 +6560,7 @@ capablecup.com
 capping.sirius.press
 capplanllc.actonservice.com
 capriciouscorn.com
+captainstick.com
 captivatingcanyon.com
 captivatingillusion.com
 captivatingpanorama.com
@@ -10080,6 +10081,7 @@ esqjac.costakreuzfahrten.de
 esri.nl.actonservice.com
 essaygiants.com
 essayspin.com
+essential-apps-analytics.herokuapp.com
 essmnx.edreams.ch
 estadisticas.lanacion.com.ar
 estadonline.publiguias.cl
@@ -11457,6 +11459,7 @@ gotest.onecart.co.za
 gotest.onefc.com
 gotest.real.co
 gotest.taillight.com
+gotlunched.com
 goto.firsttechfed.com
 goto.heartlandpaymentsystems.com
 goto.nearlist.com
@@ -20382,6 +20385,7 @@ pixel.newscred.com
 pixel.nine.com.au
 pixel.patch.com
 pixel.poptok.com
+pixel.propublica.org
 pixel.pub.lilyai.net
 pixel.redgifs.com
 pixel.roymorgan.com

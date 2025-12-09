@@ -8566,7 +8566,6 @@ deeplink.supergreat.com
 deeplink.tytod.com
 deeplink.wagr.ai
 deeplink.winespectator.com
-deeplink.xeropan.com
 deeplinkdev.upoker.net
 deeplinks.amex.dynamify.com
 deeplinks.breaz.dynamify.com

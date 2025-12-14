@@ -2950,7 +2950,6 @@ aakashapp.byjus.com
 aaktao.entel.cl
 aamcompany.actonservice.com
 aametrics.aktia.fi
-aamt.msnbc.com
 aamt.nbcnews.com
 aamt.newsapp.telemundo.com
 aamt.today.com
@@ -3687,6 +3686,7 @@ ali-pro-origin-pull.kwai.net.iberostar.com
 ali-pro-pull.kwai.net.iberostar.com
 ali8.alinea.fr
 aliasanvil.com
+alib.nine.com.au
 alibabapizza.openapp.link
 alicat.actonservice.com
 alikeaddition.com
@@ -3825,6 +3825,7 @@ analytics-batch.blitz.gg
 analytics-cf.bigcrunch.com
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
+analytics-collect.karakuri.ai
 analytics-consent-manager-v2-prod.azureedge.net
 analytics-dataplane.invideo.io
 analytics-gw.games.wanmei.com
@@ -9418,6 +9419,7 @@ ehtel.endress.com
 eifeou.pandahall.com
 eiftfa.fashionette.de
 eightgreens.com
+eighthlayer.net
 eikwax.marmot.com
 eimcqw.dickies.com
 einrfh.justanswer.com
@@ -11761,6 +11763,7 @@ hesprh.sony.jp
 heuida.shopafrm.com
 hevqaz.submarino.com.br
 heyaxr.fashiondays.bg
+heycomputers.com
 hfc195b.com
 hfmogh.piatradesign.ro
 hfmphs.loccitane.com
@@ -12059,6 +12062,7 @@ iconmediapixel.com
 iconnode.com
 icslearn.actonsoftware.com
 ictrjw.barcastores.com
+icywinter.com
 id-ward.com
 iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
@@ -15513,6 +15517,7 @@ maddeningpowder.com
 madebyintent.com
 madisoncres.actonservice.com
 madlysuccessful.com
+madoverrice.com
 madrid.report.botm.transparentedge.io
 maeketing.net.gafas.es
 mafiahairdresser.actonservice.com
@@ -31965,6 +31970,7 @@ whispermeeting.com
 whitepapers.blackboard.com
 whitepapers.rockwellautomation.com
 whoami.akamai.net.iberostar.com
+wholepagecache.com
 whoogled.com
 whqkyq.leasingmarkt.de
 whwiab.pamono.it

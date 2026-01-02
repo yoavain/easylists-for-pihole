@@ -4492,6 +4492,7 @@ api.sae.systems
 api.wipmania.com
 apilog-web.acfun.cn
 apisensor.actonservice.com
+apitiny.net
 apllogistics.actonservice.com
 aplobv.xexymix.com
 apm.tnet.nl
@@ -6992,6 +6993,7 @@ clrt.ai
 cls7.theushuaiaexperience.com
 cltgtstor001.blob.core.windows.net
 cltr.irlmail.org
+cltr.willhaben.at
 cltxxq.cruises.united.com
 clumsycar.com
 clyexf.decathlon.ie
@@ -9026,7 +9028,6 @@ dlp.egghead.link
 dlqxtm.sssports.com
 dls-account.di.atlas.samsung.com
 dls.guidrr.com
-dlswbr.baidu.com
 dluat.pokerbros.net
 dluat.supremapoker.net
 dlxpix.net
@@ -11587,6 +11588,7 @@ gtm.diamond.jp
 gtm.lercio.it
 gtm.mandesager.dk
 gtm.wise.com
+gtm.xtb.com
 gtmfsstatic.getgoogletagmanager.com
 gtreus.aliexpress.com
 gtzpic.opodo.co.uk
@@ -15609,6 +15611,8 @@ mandant.net.anwalt.de
 mandrillapp.zola.com
 mantrafox.com
 manufacturing.autodeskcommunications.com
+manydiamonds.com
+manyfishes.com
 map.rockwellautomation.com
 mapbasin.com
 mapcommand.com
@@ -17002,6 +17006,7 @@ marriedvalue.com
 marrowleaves.com
 marsh.actonservice.com
 marshinsurance.actonservice.com
+marsnextdoor.com
 marsupial.roleup.com
 martech.condenastdigital.com
 martech.wavenet.com.tw
@@ -18775,7 +18780,6 @@ mhrkxi.thetrybe.com.au
 mhwbhn.tohapi.fr
 mhz-design.actonservice.com
 mi-de-ner-nis3.info
-miao.baidu.com
 michiganrobotflower.com
 micro.workplaceinvesting.fidelity.com
 microlearning.att.com
@@ -18832,6 +18836,7 @@ mixedreading.com
 mixomniture.rbs.com
 mixpanel-proxy.coingecko.com
 mixpanel-proxy.ted.com
+mixplays.com
 mixxuo.sportys.gr
 mjca-yijws.global.ssl.fastly.net
 mjfunt.bibi.com
@@ -26361,6 +26366,7 @@ spaces.martela.pl
 spaces.martela.se
 spain.thomsonreuters.com
 spamtitan.actonservice.com
+spaning.creavite.co
 spareapp.com
 spark.thelyst.com
 sparkgoal.com

@@ -34,7 +34,7 @@
         "npm": ">= 10"
     },
     "devDependencies": {
-        "@eslint/compat": "2.0.0",
+        "@eslint/compat": "2.0.1",
         "@eslint/eslintrc": "3.3.3",
         "@eslint/js": "9.39.2",
         "@tsconfig/node22": "22.0.5",

@@ -4131,6 +4131,7 @@ analytics.navyfederal.org
 analytics.ncaa.com
 analytics.neoogilvy.uy
 analytics.net.dz.jumia.com
+analytics.netronline.dev
 analytics.newscred.com
 analytics.newsifier.nl
 analytics.nike.com
@@ -7697,6 +7698,7 @@ cppm-kc2.net.jumia.ci
 cpt.itv.com
 cpt.postnl.be
 cpt.postnl.nl
+cpu-api.infor.pl
 cpx.golem.de
 cpx.smind.si
 cpx.to
@@ -21711,6 +21713,7 @@ routes.navibration.com
 rovememoirs.com
 rowsrm.atasunoptik.com.tr
 roxtec.actonservice.com
+royalsbagels.com
 royalsweeper.com
 royzgi.giftishow.com
 rpfkgf.volksfreund.de
@@ -21785,6 +21788,7 @@ rumstat.cdnvideo.ru
 rumt-sg.com
 rup5.destinia.ru
 ruralrobin.com
+rusticfrench.com
 rusticprice.com
 ruthlessdegree.com
 ruvdkw.turk.net
@@ -29526,6 +29530,7 @@ track.yieldsoftware.com
 track.youniversalmedia.com
 track.zapimoveis.com.br
 track.zappos.com
+track1.avplayer.com
 track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com

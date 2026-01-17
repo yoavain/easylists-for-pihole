@@ -3870,6 +3870,7 @@ analytics.amakings.com
 analytics.americanfunds.com
 analytics.amig.com
 analytics.andrewsmith.com.au
+analytics.animexx.de
 analytics.api.justeattakeaway.com
 analytics.apnewsregistry.com
 analytics.archive.org
@@ -10116,6 +10117,7 @@ estadisticas.lanacion.com.ar
 estadonline.publiguias.cl
 estore.biscoind.com
 eswpwi.xlmoto.pl
+eta.animenewsnetwork.com
 etc.lxhausys.com
 etgaad.smartphoto.be
 etgkbu.unieuro.it
@@ -27049,6 +27051,7 @@ staging.refer.wagr.us
 stahhx.inversapub.com
 stahl.actonservice.com
 stakedances.com
+stakeschips.com
 stakingbasket.com
 stakingshock.com
 stakingsmile.com

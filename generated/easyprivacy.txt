@@ -5843,6 +5843,7 @@ beacon.dropbox.com
 beacon.errorception.com
 beacon.flow.io
 beacon.klm.com
+beacon.peakhour.io
 beacon.qq.com
 beacon.radiko.jp
 beacon.riskified.com
@@ -10133,6 +10134,7 @@ eta.animenewsnetwork.com
 etc.lxhausys.com
 etgaad.smartphoto.be
 etgkbu.unieuro.it
+eth.llamarpc.com
 etherealbamboo.com
 ethereallagoon.com
 etherealpinnacle.com
@@ -15282,6 +15284,7 @@ lnk2.patpat.com
 lnntnt.hsastore.com
 lntvby.banggood.com
 load.nootiz.com
+loaddisplay.com
 loadedhearts.com
 loader-cdn.azureedge.net
 loadsurprise.com
@@ -18941,6 +18944,7 @@ mlqzau.koffer.com
 mluszz.eyelashgarage.jp
 mlweb.dmlab.hu
 mm-api.agency
+mm-sdk-analytics.api.cx.metamask.io
 mmarkhigh.actonservice.com
 mmc-ltd.actonservice.com
 mmg.whatsapp.net.iberostar.com
@@ -19367,6 +19371,7 @@ nhqkbl.semilac.pl
 ni8.lafuma.com
 niblewren.co
 nicefollows.com
+nicehuh.com
 nid.mansionglobal.com
 nid.thesun.co.uk
 nid.thetimes.com
@@ -29657,6 +29662,7 @@ tracker.xgen.dev
 trackerapi.truste.com
 trackersimulator.org
 trackid.globoid.globo.com
+tracking-api.bookzone.ro
 tracking-api.hotmart.com
 tracking-api.mangopulse.net
 tracking-explore-uat.agilent.com

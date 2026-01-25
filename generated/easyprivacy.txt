@@ -3991,6 +3991,7 @@ analytics.erepublic.com
 analytics.ericafischerphotography.com
 analytics.esporteinterativo.com.br
 analytics.eventbrite.com
+analytics.everythingstream.com
 analytics.evo.co.uk
 analytics.faceitanalytics.com
 analytics.faprika.net
@@ -9364,6 +9365,7 @@ ed1.comcastbiz.com
 ed1.newtekone.com
 ed4online.actonservice.com
 edavbu.vittz.co.kr
+eddl.cdi.services.sap.com
 edeals.rbp.com
 edeals.rhymebiz.com
 edge-mobile-static.azureedge.net.iberostar.com
@@ -15600,6 +15602,7 @@ maggieeatstheangel.com
 magic.freetrade.io
 magic.prism.gg
 magicaljoin.com
+magicalpiano.com
 magicminibox.com
 mail-count.matsui.co.jp
 mail-rite.actonservice.com
@@ -19360,6 +19363,7 @@ nfmvsq.giuseppezanotti.com
 nfptar.giordanoshop.com
 nfudeh.jadebag.co.kr
 ngcbjq.frecuento.com
+ngds.sap.com
 ngghll.me.co.kr
 ngs.actonservice.com
 ngyxtr.ripcurl.com
@@ -31596,6 +31600,7 @@ vip.granicus.com
 vip.maxtor.com
 vipwao.nutrimuscle.com
 vipyou.bulkpowders.es
+viralfoodie.net
 virtualvincent.com
 vision.cbre.com.au
 vision.cbresi.com.au

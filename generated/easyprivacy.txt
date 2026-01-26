@@ -30296,6 +30296,7 @@ tracks3.ferrari.com
 trackside.redbull.racing
 tracksrv.zdf.de
 trackv-test.esearchvision.com
+traction.technologyadvice.com
 traderbyte.com
 tradeshow.edm.globalsources.com
 tradeshows.aem.org
@@ -31464,6 +31465,7 @@ uzipbs.weltbild.ch
 uzpkre.connor.com.au
 v-t.topya.com
 v16m-default.akamaized.net.iberostar.com
+vacationsgolf.com
 vahlnd.bogsfootwear.com
 valdes.net.anwalt.de
 validmemo.com
@@ -32100,6 +32102,7 @@ whimsicalcanyon.com
 whimsicalgrove.com
 whimsicalvantage.com
 whimsicalzenith.com
+whimsygadget.com
 whirlwealth.com
 whiskyqueue.com
 whisperingcascade.com

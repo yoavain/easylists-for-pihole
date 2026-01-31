@@ -14415,6 +14415,7 @@ ligxyv.hackers.co.kr
 like.reply.de
 likethedog.com
 lilogy.actonservice.com
+limecodesign.com
 limepeal.com
 limone.iltrovatore.it
 lincoln-financial.lfd.com
@@ -19937,6 +19938,7 @@ onlywoofs.com
 oocrzh.byojet.com
 oopt.norauto.es
 oossod.potterybarn.ae
+op-mobile.opera.com
 opalquill.com
 opbdps.bonprix.fi
 open-test.wynk.in
@@ -21823,6 +21825,7 @@ rum.cronitor.io
 rum.hlx.page
 rum.marquardmedia.hu
 rum.mauve.eu
+rum.optimizely.com
 rum.perfops.net
 rum.uptime.com
 rumsey.actonservice.com

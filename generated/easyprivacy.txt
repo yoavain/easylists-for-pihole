@@ -3702,6 +3702,7 @@ allergy.thermofisher.com
 alliantdata.actonservice.com
 alliedfundingcorp.actonservice.com
 allinsurance.allinsure.ca
+allnewhost.com
 alloutdubstep.com
 alloy-web.zvuk.com
 allreach.actonservice.com
@@ -6524,6 +6525,7 @@ calltrack.co
 calmcactus.com
 calmradio.actonservice.com
 calmstudent.com
+calvarycards.com
 calvera-telemetry.polaris.me
 calypsocapsule.com
 camel.headfarming.com
@@ -8748,7 +8750,6 @@ dgztiz.conrad.se
 dh0c1bz67fuho.cloudfront.net
 dhdaa.duke.edu
 dhkyrl.discountmags.com
-dhlsupplychain.dhl.com
 dhmdja.trueprotein.com.au
 dhplma.pontofrio.com.br
 dhsjpz.bugaboo.com

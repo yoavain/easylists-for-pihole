@@ -7709,6 +7709,7 @@ counter.yadro.ru
 counter247.live
 counters.freewebs.com
 counters.libertaddigital.com
+couponrail.com
 courageousbaby.com
 covenant.psjhealth.org
 coverlayer.com
@@ -8076,6 +8077,7 @@ dadispapi.gmarket.co.kr
 daegis.actonservice.com
 dafvng.sunrefre.jp
 daifez.thebay.com
+dailydomino.com
 dallas-content.cresa.com
 damagedadvice.com
 damageddistance.com
@@ -10228,6 +10230,7 @@ event-api.rdstation.com.br
 event-api.reverb.com
 event-collector.moviesanywhere.com
 event-listener.air.tv
+event-log-api-data-platform-data-lake-prod.gryphline.com
 event-logger.tagboard.com
 event-router.olympics.com
 event-service.letslinc.com
@@ -17272,6 +17275,7 @@ meadowlullaby.com
 meanwellaustralia.actonservice.com
 measlymiddle.com
 measure.ameblo.jp
+measureadv.com
 meat.midanmarketing.com
 meatydime.com
 mec.hilton.com

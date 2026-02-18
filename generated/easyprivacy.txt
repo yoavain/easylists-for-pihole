@@ -22890,7 +22890,6 @@ service.athlon.com
 service.bechtle.com
 service.techzine.eu
 service.trustpid.com
-service.utiq.com
 service.vrp.com
 serviceo.comcast.net
 serviceo.xfinity.com

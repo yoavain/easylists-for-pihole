@@ -8578,6 +8578,7 @@ dcv4p460uqa46.cloudfront.net
 dcxusu.lacuracao.pe
 dd6zx4ibq538k.cloudfront.net
 ddioce.wolverine.com
+ddl.alma.iltalehti.fi
 ddlbr.timesclub.co
 ddlcvm.clas.style
 ddmfrg.modivo.bg
@@ -10374,6 +10375,7 @@ events.yourcx.io
 events2.www.edenfantasys.com
 eventsink.api.redbee.live
 eventsmall.com
+eventsourcing.ms.harmo.me
 eventsproxy.gargantuan.futureplc.com
 eventstream.dodopizza.com
 everesttech.net

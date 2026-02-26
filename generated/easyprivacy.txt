@@ -6503,6 +6503,7 @@ c917.pandasuite.io
 caamcs.julipet.it
 caapp.levi.com
 cache2.delvenetworks.com
+cactus.joybuy.com
 caderonline.bu.edu
 cadsuta.net
 caf.actonservice.com
@@ -6975,6 +6976,7 @@ clients.belairdirect.com
 clients.intact.ca
 climbingright.com
 cliquelead.com
+clk-m.joybuy.com
 clk.entry.surala.jp
 clk.ingage.jp
 clk.mindfulsuite.com
@@ -7757,7 +7759,6 @@ crafthenry.com
 crashchance.com
 cratecamera.com
 crawford-industries.actonservice.com
-crcldu.com
 create.encoreglobal.com
 createdip.com
 creationagency.actonservice.com
@@ -11001,6 +11002,7 @@ fse.net.anwalt.de
 fsegfy.lepoint.fr
 fsm.lapresse.ca
 fsresidential.actonservice.com
+fst-ec.perimeterx.net
 fsugco.rcn.nl
 fsz1.francoisesaget.com
 fsz1.franziskasager.de
@@ -11581,6 +11583,7 @@ gr-business.vodafone.com
 gr-go.experian.com
 gracefulmilk.com
 grado.ufv.es
+grafana-agent.cuboxx.io
 grainmass.com
 grande.actonservice.com
 grandfatherguitar.com
@@ -11706,6 +11709,7 @@ h00c.sfr.fr
 h031.familydollar.com
 h353.ncadvertiser.com
 h559.stamfordadvocate.com
+h5log.joybuy.com
 h5log.zongheng.com
 hacx60.com
 haikusoap.com
@@ -22950,6 +22954,7 @@ sg-go.experian.com
 sg3.notarize.com
 sgali-mcs.byteoversea.com
 sggsbd.fonteyn.nl
+sgm-w.jd.com
 sgmntfy.com
 sgms.greatschools.org
 sgsb.aba.com

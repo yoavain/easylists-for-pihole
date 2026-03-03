@@ -11833,6 +11833,7 @@ heavyplayground.com
 hej.henriksommerfeld.se
 hekhnn.turnkeyvr.com
 helens.actonservice.com
+helix.bitformations.ca
 hello.bpost.be
 hello.controlmap.io
 hello.effervescents.com
@@ -15449,6 +15450,7 @@ logs.animaapp.com
 logs.betterstack.com
 logs.dynamicauth.com
 logs.hotstar.com
+logs.kaya.delfi.ee
 logs.mezmo.com
 logs.naukri.com
 logs.netflix.com

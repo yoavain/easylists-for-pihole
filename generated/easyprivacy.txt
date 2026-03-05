@@ -5789,6 +5789,7 @@ banks.adpinfo.com
 banstat.nadavi.net
 barbadoshello.com
 barbarousbase.com
+barbershirts.com
 barium.cheezdev.com
 baseboosters.com
 basilfish.com
@@ -6638,6 +6639,7 @@ carryenjoy.com
 cars.autopia.com.au
 cars.smartfleetaustralia.com.au
 cars.smartleasing.com.au
+carsarace.com
 cartelsalsa.com
 cartkitten.com
 cartoon.hardalist.com

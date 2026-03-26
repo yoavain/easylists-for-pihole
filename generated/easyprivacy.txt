@@ -7178,6 +7178,7 @@ collections.equifax.com
 collector-1.ex.co
 collector-api.frspecifics.com
 collector-direct.xhamster.com
+collector-ovp.streamcloud.it
 collector-px0py5pczn.octopart.com
 collector.api.video
 collector.appconsent.io
@@ -8605,6 +8606,7 @@ ddioce.wolverine.com
 ddl.alma.iltalehti.fi
 ddlbr.timesclub.co
 ddlcvm.clas.style
+ddm.frandroid.com
 ddmfrg.modivo.bg
 ddnahc.mesbagages.com
 ddome-tag.blablacar.com
@@ -10331,6 +10333,7 @@ events.centex.com
 events.chaordicsystems.com
 events.character.ai
 events.cigna.com
+events.codainfra.com
 events.coface.com
 events.demoup.com
 events.devcycle.com
@@ -11204,6 +11207,7 @@ gdfsrd.itslighting.kr
 gdg.gardnerdenver.com
 gdm1.toner.fr
 gdmelqact.gartner.com
+gdpr.netralex.com
 gdqlno.weisshaus.de
 gdsngr.chainreactioncycles.com
 gdt.qq.com
@@ -21073,6 +21077,7 @@ pub.servidoresge.com
 pub.sheknows.com
 pubfs.com
 pubimgs.com
+public.profitwell.com
 publications.nomination.fr
 publicidad.davivienda.com.pa
 publicschoolworks.actonservice.com
@@ -21101,6 +21106,7 @@ punyplant.com
 puppetcorp.com
 puppiesart.com
 puppytooth.com
+purebloom.net
 purple-hit.com
 purple.mongodb.com
 purpletalk.actonservice.com
@@ -26585,6 +26591,7 @@ spinnakermgmt.actonservice.com
 spirebaboon.com
 spitefulriver.com
 spjysa.only.com
+splicebook.com
 splitexpenses.oworld.fr
 spmaeu.gumtree.com.au
 spmyma.moscowfresh.ru
@@ -29729,6 +29736,7 @@ tracker-remp.active.radio
 tracker-remp.premiumtimesng.com
 tracker-v4.gamedock.io
 tracker.adbinead.com
+tracker.adcluster.com.tr
 tracker.affiliate.iqbroker.com
 tracker.affirm.com
 tracker.ai.xiaomi.com
@@ -30882,6 +30890,7 @@ truebackpack.com
 truefaced.actonservice.com
 truejasmine.com
 truemfg.actonservice.com
+trueselfkeys.com
 truffle.bid
 trust.flexpay.io
 trust.mitutoyo.com

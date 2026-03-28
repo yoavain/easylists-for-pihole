@@ -4518,6 +4518,7 @@ apisensor.actonservice.com
 apitiny.net
 apllogistics.actonservice.com
 aplobv.xexymix.com
+aplus.alibaba.com
 apm.tnet.nl
 app-clicks-corporate.firstrepublic.com
 app-clicks.firstrepublic.com
@@ -31669,6 +31670,7 @@ verify.spin.app
 verify.test.spin.app
 verizon-branch.locationlabs.com
 verseballs.com
+versuswall.com
 vertexcs.actonservice.com
 vetsource.actonservice.com
 vewbab.entertainmentearth.com
@@ -31988,6 +31990,7 @@ wealth.informabi.com
 wealthcarecapital.actonservice.com
 weare.ballymoregroup.com
 weatherbytes.net
+weatherpush.net
 web-perf.booking.com
 web-trace.ksapisrv.com
 web-tracker.smsbump.com

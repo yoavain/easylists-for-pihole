@@ -5879,6 +5879,7 @@ beacon.sojern.com
 beacon.statful.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
+beacon.webpresence.work
 beaconcdn.qq.com
 beacons.digital.disneyadvertising.com
 beacons.mediamelon.com
@@ -32284,6 +32285,7 @@ widget.educationdynamics.com
 widgetbe.com
 widgethouse.com
 wigkxx.jetcost.com
+wikiquotations.com
 wikiwhatwhere.com
 wildcommittee.com
 wildwoodavenue.com

@@ -3793,7 +3793,7 @@ ana.chat.shalove.net
 ana.luvul.net
 ana.skypemeet.net
 anaconda.net.anwalt.de
-anal.billingserv.com
+anal.baseserv.com
 anal.doubledouble.top
 anal.sataniskwijt.be
 analitica.webrpp.com
@@ -7206,7 +7206,6 @@ collector.spankbang.party
 collector.sspinc.io
 collector.taoxh.life
 collector.theconversation.com
-collector.wawlabs.com
 collector.xhaccess.com
 collector.xhamster.com
 collector.xhamster.desi
@@ -20399,6 +20398,7 @@ paymentslink.dropp.cc
 paynewest.actonservice.com
 payqjd.subito.it
 payroll.smartsalary.com.au
+pbc.barrons.com
 pbc.programbrokerage.com
 pbecrm.aquanet.ru
 pbjs-stream.bydata.com
@@ -28761,6 +28761,7 @@ tagourounakia.openapp.link
 tags-event.woolworths.co.nz
 tags.aljazeera.com
 tags.aljazeera.net
+tags.barrons.com
 tags.catapultx.com
 tags.cmp.tail.digital
 tags.dxmdp.com
@@ -32291,6 +32292,7 @@ wikiwhatwhere.com
 wildcommittee.com
 wildwoodavenue.com
 win.staticstuff.net
+windbeetle.com
 wirecomic.com
 wiredforcoffee.com
 wirenewsletter.com

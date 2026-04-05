@@ -6717,6 +6717,7 @@ cdn-channels-pixel.ex.co
 cdn-eu.usefathom.com
 cdn-rum.ngenix.net
 cdn.arcstudiopro.com
+cdn.eaec.fpfis.tech.ec.europa.eu
 cdn.net.dz.jumia.com
 cdn.net.elogia.net
 cdn.polarbyte.com
@@ -8044,6 +8045,7 @@ d2lxqodqbpy7c2.cloudfront.net
 d2lyx5ly60ksu3.cloudfront.net
 d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
+d2o9p5vky89u4e.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pozfvrp52dk4.cloudfront.net
 d2pt12ct4kmq21.cloudfront.net
@@ -29151,6 +29153,7 @@ telemetry.nav.no
 telemetry.navispherecarrier.com
 telemetry.owenscorning.com
 telemetry.phenixrts.com
+telemetry.portal.voltdeutschland.org
 telemetry.proton.me
 telemetry.reembed.com
 telemetry.ruthschris.com

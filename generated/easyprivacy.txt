@@ -6755,6 +6755,7 @@ cesario.bt.no
 cf-pixelfront-analytics.widencdn.net
 cfa.fidelity.com
 cfaexam.quantresear.ch
+cfapi.upstackdata.io
 cfpwood.actonservice.com
 cfsaze.retailmenot.com
 cfyhym.weightwatchers.fr
@@ -10159,6 +10160,7 @@ err.ifengcloud.ifeng.com
 error-analytics-production.shopifysvc.com
 error-analytics-sessions-production.shopifysvc.com
 error-collector.ted.com
+error-tracker.pages.dev
 error.videonow.ru
 errorreports.couponcabin.com
 errors.darkreader.app

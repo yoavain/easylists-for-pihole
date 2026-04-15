@@ -13617,7 +13617,6 @@ intuitvisitorid.api.intuit.com
 inv.mksp.io
 inv3te.oui.sncf
 invata.actonservice.com
-inventorycache.com
 inventtango.com
 invest.rubicoin.com
 investment.lianest.co.jp
@@ -29789,6 +29788,7 @@ tracker.jkplayers.com
 tracker.jkstremum.xyz
 tracker.keywordintent.com
 tracker.marinsoftware.com
+tracker.metricool.com
 tracker.mrpfd.com
 tracker.mspy.com
 tracker.multisearch.io

@@ -3383,6 +3383,7 @@ adless.io
 adlog.com.com
 adm.adminstrumentengineering.com.au
 admaxium.com
+admediasales.com
 admetrics.events
 admin.academyforconsciousleadership.net
 admin.net.fidorbank.uk
@@ -3531,6 +3532,7 @@ advantageauburn.actonservice.com
 advantageind.actonservice.com
 advantages.americanexpress.com
 adventurousamount.com
+advertease.store
 advise.gallup.com
 advisers.kingstonsmith.co.uk
 advisor.americanexpress.ca
@@ -5547,6 +5549,7 @@ au-partners.ingrammicro.com
 aucqdk.autodoc.es
 audience.newscgp.com
 audience.standardchartered.com.tw
+audiencetrk.com
 audiencies.ccma.cat
 audioarctic.com
 audiofly.actonservice.com
@@ -6692,6 +6695,7 @@ cbc.pnc.com
 cbdatatracker.com
 cbl6.destinia.gt
 cbpgpg.bombshellsportswear.com
+cbso.uk.net
 cbudbs.tirendo.de
 cbuvhv.desertcart.ae
 ccaas.avaya.com
@@ -7644,6 +7648,7 @@ cooking-app.lkk.com
 coolestcatcare.com
 coolguesthouse.com
 coolkidsdistrict.com
+coolretargeting.com
 coop.vmware.com
 coordinatedcoat.com
 copilot-telemetry.githubusercontent.com
@@ -9169,6 +9174,7 @@ doppler-client-events.cbsivideo.com
 doppler-config.cbsivideo.com
 doppler-reporting.cbsivideo.com
 dotvox.actonservice.com
+doubleclick.uk.net
 doubledefend.com
 doublestat.info
 doubtdrawer.com
@@ -9313,6 +9319,7 @@ dzkygl.ullapopken.nl
 dzszbb.homes.co.jp
 dztatn.soulberry.jp
 dzwqfq.alpitour.it
+e-ads.com
 e-img.hover.to
 e-learning.brainshark.com
 e035.pandasuite.io
@@ -11857,6 +11864,7 @@ healthroundprince.com
 heap-api.com
 heap.drop.com
 hearob.klix.ba
+heartbeat-pearl.vercel.app
 heartbreakingmind.com
 heartflow.actonservice.com
 hearthow.com
@@ -15492,6 +15500,7 @@ logs.viavideo.digital
 logsbin.dantri.com.vn
 logservice.hicloud.com
 logservice1.hicloud.com
+logstracker.com
 logtail.com
 logtake.weidian.com
 logx-experimentation.iherb.com
@@ -17140,6 +17149,7 @@ masternaut.actonservice.com
 mastertag.kpcustomer.de
 mat.lgdisplay.com
 mat.socy.es
+match2one.net
 materialisticmoon.com
 materialmilk.com
 materialparcel.com
@@ -19151,6 +19161,7 @@ mpglie.apartmentguide.com
 mpgtft.zoobeauval.com
 mpjtif.viabovag.nl
 mprkxf.teebooks.com
+mpstech.space
 mqhaxf.keds.com
 mqhuzk.soffadirekt.se
 mqjsdu.eataly.net
@@ -19175,6 +19186,7 @@ msafoy.eyebuydirect.com
 msbainfo.fbe.hku.hk
 msboul.gruenwelt.de
 mseeru.faz.net
+msfunction.online
 msfvwi.sieuthiyte.com.vn
 msg.qy.net
 msg.sqz.app
@@ -21115,6 +21127,7 @@ punyplant.com
 puppetcorp.com
 puppiesart.com
 puppytooth.com
+purcartz.com
 purebloom.net
 purple-hit.com
 purple.mongodb.com
@@ -21146,6 +21159,7 @@ pxgpnp.angara.com
 pxjkbj.bostonproper.com
 pxl.indeed.com
 pxlgnpgecom-a.akamaihd.net
+pxlnow.in
 pxlstat.com
 pxmzlk.redfin.com
 pxsg.pandora.com
@@ -21897,6 +21911,7 @@ rsv.pairorder.jp
 rsvp.heatexperience.com
 rsvp.markettraders.com
 rsx.afterpay.com
+rt-pixel.com
 rta.dailymail.co.uk
 rta2.inews.co.uk
 rta2.metro.co.uk
@@ -21928,6 +21943,7 @@ rum-ingress-coralogix.com
 rum.api.intuit.com
 rum.azion.com
 rum.azioncdn.net
+rum.battle.net
 rum.cdnpure.com
 rum.condenastdigital.com
 rum.corewebvitals.io
@@ -23163,6 +23179,7 @@ shiverscissors.com
 shjwhv.falsepeti.com
 shockinggrass.com
 shockingship.com
+shop-cart.app
 shop.iwantclips.com
 shop.lids.ca
 shopify-webhooks.sailthru.com
@@ -27221,6 +27238,7 @@ stakingbasket.com
 stakingshock.com
 stakingsmile.com
 stalesummer.com
+stalkoda.com
 stan.xing.com
 stanburns.actonservice.com
 stape.brascast.com
@@ -29824,6 +29842,7 @@ trackerapi.truste.com
 trackersimulator.org
 trackhorizon.nnmtools.com
 trackid.globoid.globo.com
+trackier.com
 tracking-api.bookzone.ro
 tracking-api.hotmart.com
 tracking-api.mangopulse.net
@@ -32159,6 +32178,7 @@ webanalyticsssl.websense.com
 webcasts.de.ni.com
 webcasts.partnermcafee.com
 webcounter.goweb.de
+webevents.kayzen.io
 webinar.dnv.com
 webinar.intel.com
 webinar.ndtco.com

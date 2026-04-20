@@ -8224,6 +8224,7 @@ data.cx.hrhibiza.com
 data.cx.palladiumhotelgroup.com
 data.cx.theushuaiaexperience.com
 data.cxbevents.caixabank.com
+data.debugbear.com
 data.decathlon.co.uk
 data.decathlon.de
 data.decathlon.es

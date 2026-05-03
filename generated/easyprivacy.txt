@@ -6371,6 +6371,7 @@ browser-intake-datadoghq.com
 browser-updater.yandex.net
 browser.covatic.io
 browser.pipe.aria.microsoft.com
+browserguides.net
 brpayless.eccocar.com
 brqory.notino.sk
 brquazzar.eccocar.com
@@ -6562,6 +6563,7 @@ calvera-telemetry.polaris.me
 calypsocapsule.com
 camel.headfarming.com
 camelsfestival.com
+camelspark.com
 camisado.actonservice.com
 campagne.enecozakelijk.nl
 campaign-direct.eisai.jp
@@ -27016,6 +27018,7 @@ sst.brodo.com
 sst.bwt.com
 sst.colemanfurniture.com
 sst.cooperativa.cl
+sst.fdiintelligence.com
 sst.shopware.com
 sst.vrijopnaam.nl
 sstat.detelefoongids.nl
@@ -29789,6 +29792,7 @@ trackcommon.hujiang.com
 tracker-00.qvb.qcloud.com
 tracker-aa.paf.es
 tracker-aa.pafbetscore.lv
+tracker-beam.tempo.co
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracker-dot-optimeeze.appspot.com
 tracker-remp.active.radio

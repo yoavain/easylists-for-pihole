@@ -1,11 +1,14 @@
 {
-    "extends": "@tsconfig/node22",
+    "extends": "@tsconfig/node24",
     "compilerOptions": {
         "strict": false,
         "verbatimModuleSyntax": false,
         "allowJs": true,
         "noEmit": true,
+        "ignoreDeprecations": "6.0",
         "baseUrl": ".",
+        "rootDir": ".",
+        "types": ["node", "jest"],
         "paths": {
             "~src/*": ["src/*"],
             "~test/*": ["test/*"],

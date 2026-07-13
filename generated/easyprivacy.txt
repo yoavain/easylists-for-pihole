@@ -4066,6 +4066,7 @@ analytics.idfnet.net
 analytics.ifanrusercontent.com
 analytics.ihg.com
 analytics.ikyu.com
+analytics.infraloods.nl
 analytics.inquisitr.com
 analytics.iraiser.eu
 analytics.ishopchangi.com
@@ -21669,6 +21670,7 @@ research.dshb.biology.uiowa.edu
 research.gartner.com
 research.insidesales.com
 research.velocify.com
+researchlog.dbresearch.com
 resetpassword.surepetcare.io
 resolution.taxdefensenetwork.com
 resolver.msg.global.xiaomi.net.iberostar.com
@@ -30917,6 +30919,7 @@ trklink.luisaviaroma.com
 trkn.us
 trkpzz.dcinside.com
 trkr.shoppingminds.net
+trkweb.clinch.co
 tropicalpal.com
 troubleshade.com
 trovo-tag.com

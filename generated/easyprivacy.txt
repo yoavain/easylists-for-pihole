@@ -14371,6 +14371,7 @@ lbgfqn.onward.co.jp
 lbgrwm.zolta.pl
 lbnrrh.autouncle.dk
 lbv5.mperf.com
+lc-event.pixiv.net
 lcdsyj.daily.co.jp
 lcefua.timberland.ru
 lciapi.ninthdecimal.com
@@ -29073,6 +29074,7 @@ target.zeiss.com
 target.zeiss.de
 target.zinia.com
 targetemsecure.blob.core.windows.net
+targetfax.com
 targeting.focas.jp
 targeting.voxus.tv
 targeting.washpost.nile.works
@@ -29355,6 +29357,7 @@ thefontzone.com
 thejavalane.com
 themangotea.com
 theme.echovisuals.com
+themegoats.com
 themepicker.com
 thepixelpioneer.com
 thepowerstones.com
@@ -31726,6 +31729,8 @@ verizon-branch.locationlabs.com
 verseballs.com
 versuswall.com
 vertexcs.actonservice.com
+verybark.com
+verybouncy.com
 vetsource.actonservice.com
 vewbab.entertainmentearth.com
 vezsyr.bxblue.com.br
@@ -31788,6 +31793,7 @@ view.kirbybuildingsystems.com
 view.metlspan.com
 view.nucorbuildingsystems.com
 viewer.pandasuite.io
+viewresource.com
 views.arabnews.com
 views.asurascans.com
 views.cancan.ro

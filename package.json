@@ -34,7 +34,7 @@
         "npm": ">= 11"
     },
     "dependencies": {
-        "got": "11.8.6"
+        "got": "15.1.0"
     },
     "devDependencies": {
         "@eslint/compat": "2.1.0",

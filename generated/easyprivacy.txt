@@ -3705,6 +3705,7 @@ alliedfundingcorp.actonservice.com
 allinsurance.allinsure.ca
 allnewhost.com
 alloutdubstep.com
+alloy-rap.reclameaqui.com.br
 alloy-web.zvuk.com
 alloytitans.com
 allreach.actonservice.com
@@ -10860,6 +10861,7 @@ fluentco.actonservice.com
 flushingbeast.com
 flutteringfireman.com
 fly.caljetelite.com
+flyflightstar.com
 flystranger.com
 flznib.weblio.jp
 fma7.aegon.es
@@ -10893,6 +10895,7 @@ foodfunfestivals.com
 foodpackaging.kpfilms.com
 foodsouvlakibar.openapp.link
 foomjy.teacollection.com
+footballmedal.com
 forbes.realclearpolitics.com
 forbidden.actonservice.com
 forbin.actonservice.com
@@ -11544,6 +11547,7 @@ globalcommunications.sc.com
 globaleloqua.americanexpress.com
 globallearningsystems.actonservice.com
 globalmed.actonservice.com
+globalorders.net
 globalsolutions.risk.lexisnexis.com
 globo-ab.globo.com
 glookup.info
@@ -19767,6 +19771,7 @@ obrazy.dlabiznesu.pracuj.pl
 obrqts.hudforeclosed.com
 obs.branderblender.com
 obs.esnlocco.com
+obs.greencolumnblog.com
 obs.jollyoutdoorjogger.com
 obscenesidewalk.com
 obscurespace.com
@@ -20877,6 +20882,7 @@ pntbrs.reflectwindow.com
 pnvnpy.scullyandscully.com
 pny.net.penny.de
 pocketfaucet.com
+pocustrack.com
 poczta.happ.social
 pod.spoti.fi
 podbooth.martela.com
@@ -27954,6 +27960,7 @@ stats.owre.se
 stats.oyster.com
 stats.ozwebsites.biz
 stats.pacificdentalservices.com
+stats.panet.com
 stats.parqet.com
 stats.parrot.dev
 stats.passwordyeti.com
@@ -29905,6 +29912,7 @@ trackier.com
 tracking-api.bookzone.ro
 tracking-api.hotmart.com
 tracking-api.mangopulse.net
+tracking-api.razor.media
 tracking-explore-uat.agilent.com
 tracking-explore.agilent.com
 tracking-na.hawksearch.com

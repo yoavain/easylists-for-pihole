@@ -3786,6 +3786,7 @@ amplitude.chess.com
 ampltd.medal.tv
 ampltd.top.gg
 ampltd2.medal.tv
+ampscamp.net
 ams.lelong.com.my
 ams.oraclecloud.com
 amsunsolar.actonservice.com
@@ -9316,6 +9317,7 @@ dst05lp2.net.mydays.de
 dsvmgu.snipes.it
 dt-tracker.mamikos.com
 dtag.breadfinancial.com
+dtasrvr.com
 dtestpromo.fiat.it
 dtmssl.bobcat.com
 dtnmyp.cocotorico.com
@@ -21205,6 +21207,7 @@ pulsaredit.com
 pulsatingmeadow.com
 pulse.delta.com
 pulse.ecmapps.com
+pulse.genki.world
 pulse.munsonhealthcare.org
 pulse.shopflo.com
 pumlmb.netcologne.de

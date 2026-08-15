@@ -5889,6 +5889,7 @@ beacon.coofis.com
 beacon.dropbox.com
 beacon.errorception.com
 beacon.flow.io
+beacon.joinlede.com
 beacon.klm.com
 beacon.peakhour.io
 beacon.qq.com
@@ -6835,6 +6836,7 @@ charms.pugster.com
 chartec.actonservice.com
 chat.forddirectdealers.com
 check.frbservices.org
+check2.lloydsbank.co.uk
 check3.tiaa.org
 checkpointcharlie.heizung.de
 cheese.guac.live
@@ -13571,6 +13573,7 @@ infospot.roanokegroup.com
 infotc.readingpartners.org
 infotul.readingpartners.org
 ingest.coincodex.com
+ingest.in.signoz.cloud
 ingest.make.rvapps.io
 ingest.make.rvohealth.com
 ingredients.firmenich.com
@@ -32999,6 +33002,7 @@ ydvsok.newbalance.jp
 yebvpc.gardengoodsdirect.com
 yefktd.avito.ru
 yehyqc.hugoboss.com
+yellowscissors.com
 yes88kks.infinityscans.net
 yesss-a1at.mno.link
 yewrcd.govoyages.com
@@ -33182,6 +33186,7 @@ zaiuhu.vacatia.com
 zakelijke-betalingsoplossingen.americanexpress.nl
 zakelijke-oplossingen-nld.americanexpress.nl
 zakelijkemarkt.vattenfall.nl
+zanyapps.com
 zatong.icaniwill.se
 zaventemdijleland.viessmann.be
 zbdtkk.totvs.com

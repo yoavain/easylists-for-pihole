@@ -8088,6 +8088,7 @@ d1f0tbk1v3e25u.cloudfront.net
 d1get58iwmjrxx.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
 d1hyarjnwqrenh.cloudfront.net
+d1jbmblqtpfad4.cloudfront.net
 d1k8sb4xbepqao.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
@@ -8956,6 +8957,7 @@ digitalmarketing.gogsg.com
 digitalmarketing.smu.edu.sg
 digitalworkplace.ricoh.fr
 digithalo.com
+digitizedcopy.com
 dii.bankaust.com.au
 dii1.bitiba.be
 dii1.bitiba.cz
@@ -10748,6 +10750,7 @@ faucetfoot.com
 faucons.viessmann.fr
 faultycanvas.com
 fauzxn.hairlavie.com
+faxcoupons.com
 fazphz.theiconic.com.au
 fbjpji.europcar.es
 fbo-statistics-collector-tc.is.flippingbook.com

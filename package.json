@@ -8,7 +8,7 @@
         "husky-install": "git config --get core.hookspath || husky",
         "build": "npm run eslint && npm run type-check && npm run test",
         "preparse": "rimraf generated && rimraf raw && mkdir generated && mkdir raw",
-        "parse": "node -r ts-node/register/transpile-only -r tsconfig-paths/register src/index.ts",
+        "parse": "tsx src/index.ts",
         "parse-and-test": "npm run parse && npm run test-generated",
         "eslint": "eslint src/ test/ resources/ *.ts",
         "eslint:fix": "npm run eslint -- --fix",
@@ -45,6 +45,7 @@
         "@types/node": "24.13.3",
         "@typescript-eslint/eslint-plugin": "8.68.0",
         "@typescript-eslint/parser": "8.68.0",
+        "@typescript/native": "npm:typescript@7.0.2",
         "eslint": "9.39.5",
         "eslint-import-resolver-typescript": "4.4.5",
         "eslint-plugin-import": "2.32.0",
@@ -58,8 +59,8 @@
         "prettier": "3.9.6",
         "rimraf": "6.1.3",
         "ts-jest": "29.4.12",
-        "ts-node": "10.9.2",
-        "typescript": "6.0.3"
+        "tsx": "4.23.12",
+        "typescript": "npm:@typescript/typescript6@6.0.2"
     },
     "lint-staged": {
         "*.ts": [

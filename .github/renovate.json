@@ -10,7 +10,7 @@
             "automerge": true
         },
         {
-            "matchPackageNames": ["typescript", "ts-node", "ts-jest"],
+            "matchPackageNames": ["typescript", "@typescript/native", "ts-jest"],
             "matchPackagePatterns": ["^@tsconfig/"],
             "groupName": "typescript packages",
             "updateTypes": ["minor", "patch"],

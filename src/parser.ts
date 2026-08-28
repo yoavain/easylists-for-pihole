@@ -1,8 +1,9 @@
 import type { InputType } from "~resources/input";
 import { getInput } from "~resources/input";
-// Using `got` instead of Node's native fetch (undici): fetch crashes with a libuv assertion
-// on Windows for Node 23.x/24.x - see https://github.com/nodejs/node/issues/56645 (open, unfixed;
-// fix pending in https://github.com/nodejs/node/pull/61999). Revisit native fetch once that lands.
+// Using `got` instead of Node's native fetch: undici aborts the process on large `Connection: close`
+// responses (https://github.com/nodejs/undici/issues/5360), which is what easylist.to serves. Not
+// fixable on Node 24 - the fix is in undici 8.6.0, so Node >= 26.5.0. Read docs/http-client.md before
+// trying to remove this dependency; the older, already-fixed nodejs/node#56645 is a different bug.
 import got from "got";
 import * as path from "path";
 import { writeFile } from "fs/promises";

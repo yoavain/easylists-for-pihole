@@ -3877,6 +3877,7 @@ analytics.adliners.de
 analytics.adobe.io
 analytics.adobe.ly
 analytics.adultswim.co.uk
+analytics.afirstsoft.cn
 analytics.agenedia.com
 analytics.agoda.com
 analytics.ahrefs.dev
@@ -5964,6 +5965,7 @@ bersondeanstevens.actonservice.com
 bestboundary.com
 bestbuy.actonservice.com
 bestclimbers.net
+bestcoffeemachine.net
 bestill.help.no
 bestinfo.bluetrustloans.com
 bestshoesboot.com
@@ -14226,6 +14228,7 @@ jun23.madeindesign.de
 jupiterhealth-app.hotdoc.com.au
 just.playvici.com
 justconfig.com
+justfordocs.com
 justicejudo.com
 justlagoon.com
 justpickaname.com
@@ -20861,6 +20864,7 @@ pixel.roymorgan.com
 pixel.smartmedia.tj
 pixel.sprinklr.com
 pixel.tuko.co.ke
+pixel.uppromote.com
 pixel.videohub.tv
 pixel.visitiq.io
 pixel.wetracked.io

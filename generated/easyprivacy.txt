@@ -7291,6 +7291,7 @@ collector.githubapp.com
 collector.hippodromeonline.com
 collector.mazeberry.com
 collector.megaxh.com
+collector.orf.at
 collector.pi.spectrum.net
 collector.pmc.com
 collector.quillbot.com
@@ -21373,6 +21374,7 @@ puffyloss.com
 puffypaste.com
 puffypull.com
 puffypurpose.com
+pugspress.com
 puiwrs.misterspex.de
 pulsar.ebay.com
 pulsaredit.com
@@ -21750,6 +21752,7 @@ receiptcent.com
 receive.wmcdp.io
 receptivereaction.com
 recessrain.com
+recipepile.net
 recipepin.com
 reconditeprison.com
 reconditerespect.com
@@ -21768,6 +21771,7 @@ redbooks.actonservice.com
 redbricksoap.com
 redclassic.actonservice.com
 redditstream.arborapps.io
+redexecs.com
 redirect.cuballama.com
 redirect.indacar.io
 redirect.kataklop.com

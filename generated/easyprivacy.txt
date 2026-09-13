@@ -3914,6 +3914,7 @@ analytics.belgacom.be
 analytics.bestreviews.com
 analytics.betterplaces.nl
 analytics.bgr.com
+analytics.bhaskarsaikia.in
 analytics.bigfishgames.com
 analytics.bitchute.com
 analytics.bitrix.info
@@ -6593,6 +6594,7 @@ c917.pandasuite.io
 caamcs.julipet.it
 caapp.levi.com
 cache2.delvenetworks.com
+cactus.jd.com
 cactus.joybuy.com
 caderonline.bu.edu
 cadsuta.net
@@ -12078,6 +12080,7 @@ helpingbits.com
 hemblx.vans.cl
 herbgreencolumn.com
 herbstarsbuilding.com
+hermes.jd.com
 hesconet.actonservice.com
 hesprh.sony.jp
 heuida.shopafrm.com
@@ -15591,6 +15594,7 @@ log-185a61e7.bendigobank.com.au
 log-2ffe60ee.westpac.com.au
 log-api.cli.im
 log-gateway.zoom.us
+log-h5.imdada.cn
 log-lb.skyperfectv.co.jp
 log-pq.shopfully.cloud
 log-upload-os.hoyolab.com
@@ -17658,6 +17662,7 @@ mer.stdout.cz
 mercadeo.promerica.fi.cr
 merchant-mail.neosurf.com
 merchant.libertycarz.com
+mercury.jd.com
 mercuryace.com
 meremark.com
 merequartz.com
@@ -19251,6 +19256,7 @@ mlinkdev.bookedout.com
 mlinks.fluz.app
 mlinks.helloalfred.com
 mlkklg.suncamp.de
+mllog.jd.com
 mlmswk.janpara.co.jp
 mlqzau.koffer.com
 mluszz.eyelashgarage.jp
@@ -31608,6 +31614,7 @@ upz1.destinia.lt
 uqckxr.chilli.se
 uqd.io
 uqhpej.wiberrentacar.com
+uranus.jd.com
 urbanairship.com
 urbanlaurel.com
 urbanopus.net

@@ -4183,6 +4183,7 @@ analytics.onlinehomeretail.co.uk
 analytics.onlyonlinemarketing.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
+analytics.org.coveo.com
 analytics.ostr.io
 analytics.ovh.com
 analytics.oyorooms.com
@@ -5386,6 +5387,7 @@ apps.uquote.io
 apps.weekendgowhere.sg
 apps.wholefoodsmarket.com
 apps.zingeroo.com
+appsecstudio.com
 apptest.gotvive.com
 apptest.gwsportsapp.in
 apptest.jow.fr
@@ -6219,6 +6221,7 @@ boundlessbrake.com
 boundlessveil.com
 boutique.ricoh.fr
 bowl.actonservice.com
+bowlershut.com
 box.bossdata.be
 boxandcover.com
 bpe.mlb.com
@@ -8012,6 +8015,7 @@ cueohf.forumpro.fr
 cueohf.forumsactifs.com
 cueohf.hungarianforum.com
 cufroa.aboutyou.be
+cuisinevoyager.com
 culliganwaterco.actonservice.com
 culture.intermedes.com
 culture.pandasuite.io
@@ -15961,6 +15965,7 @@ managedaccounts.nvenergy.com
 managedaccounts.pacificpower.net
 managedaccounts.rockymountainpower.net
 manamoment.com
+manateemotors.com
 mandant.net.anwalt.de
 mandrillapp.zola.com
 manufacturing.autodeskcommunications.com

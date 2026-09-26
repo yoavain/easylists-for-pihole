@@ -5441,7 +5441,9 @@ arrlrk.edigital.hu
 arsaqf.yukoyuko.net
 art2wave.actonservice.com
 artbranch.net
+artcat.net
 artemis-cdn.ocdn.eu
+artfulsavage.com
 articledemon.com
 artisan.actonservice.com
 artistchristinacarmel.ericksonbuilt.com
@@ -8061,6 +8063,7 @@ customfingerprints.bablosoft.com
 customize.titanfactorydirect.com
 cutecalculator.com
 cutechin.com
+cutsmarter.net
 cv-match.sharebase.jp
 cv-tracker.stanby.com
 cv1.stefany.co.jp
@@ -15716,6 +15719,7 @@ loglady.kiwi.com
 loglady.skypicker.com
 logql.yahoo.co.jp
 logs-api.shoprunner.com
+logs-ingester.prod.zuddl.com
 logs-partners.coupang.com
 logs.adplay.ru
 logs.animaapp.com

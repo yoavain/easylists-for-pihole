@@ -6567,6 +6567,7 @@ bvubje.leboncoin.fr
 bwapi.bikerumor.com
 bwj4.hrhibiza.com
 bwkpkx.projectxparis.com
+bws.airwallex.com
 bwspqc.bloomonline.jp
 bx-cloud.com
 bxbuvv.zeelool.com
@@ -9372,6 +9373,7 @@ dozententag.ni.com
 dpckzt.mesrecettesfaciles.fr
 dplp1.ibmnorthamerica.adobesandbox.com
 dpm.demdex.net.iberostar.com
+dppesulohfqre.cloudfront.net
 dppublishinginc.actonservice.com
 dptkdh.joinhoney.com
 dq95d35.com
@@ -29283,6 +29285,7 @@ tangycover.com
 tao.barstoolsports.com
 tap.carling.com
 tapi.kaufda.de
+tapoutmusic.com
 target-omtrdc.deka.de
 target-test.cisco.com
 target-us.samsung.com

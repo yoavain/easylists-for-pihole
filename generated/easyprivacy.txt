@@ -4340,6 +4340,7 @@ analytics.traderlink.com
 analytics.truckingauthority.com
 analytics.trust.page
 analytics.trutv.com
+analytics.tsoftapps.com
 analytics.tufos.com.br
 analytics.turnertv.com
 analytics.tver.jp
@@ -6222,6 +6223,7 @@ boostbehavior.com
 booster.osnova.io
 bopmkf.lolahome.es
 boredcrown.com
+borefee.com
 boringberry.com
 boringpirate.com
 boss.openapp.link
@@ -7173,6 +7175,7 @@ cltr.irlmail.org
 cltr.willhaben.at
 cltxxq.cruises.united.com
 clumsycar.com
+clutchcourses.com
 clyexf.decathlon.ie
 cm-exchange.toast.com
 cm-in.americanexpress.com
@@ -11697,7 +11700,6 @@ gkfdkf.jdsports.co.uk
 gkgygj.verivox.de
 gkopqp.coccodrillo.eu
 gksqdt.reitmans.com
-gkx.gokwik.co
 gl5g98t0vfjb.panprices.com
 gladysway.com
 glamhawk.com
@@ -28260,6 +28262,7 @@ stats.locallabs.com
 stats.localmetravel.com
 stats.lord.io
 stats.lotlinx.com
+stats.lrb.co.uk
 stats.lstfnd.de
 stats.ltdhunt.com
 stats.luieremmer.net
@@ -28612,6 +28615,7 @@ stats.yourfone.de
 stats.zimri.net
 stats.zoogletools.net
 stats.zotabox.com
+stats.zruvix.com
 stats2.architecturaldigest.com
 stats2.bonappetit.com
 stats2.cntraveler.com
@@ -30007,6 +30011,7 @@ townhouses.woodlea.com.au
 townsquareinteractive.actonservice.com
 toysbasics.com
 toytakeover.com
+tp-em.cc
 tpe.theparticipanteffect.com
 tpfrro.justlease.nl
 tpmexb.vans.co.nz

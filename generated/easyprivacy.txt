@@ -5814,6 +5814,7 @@ b629.electronicdesign.com
 b73c.pandasuite.io
 b7tp47v2nb3x-a.akamaihd.net
 baahnj.bezokularow.pl
+babelfreak.com
 bablace.com
 baccarat.abzorbagames.com
 backoffice.verintsystemsinc.com
@@ -6377,6 +6378,7 @@ branchtest.veryableops.com
 branchtest.whataburger.com
 branchtrk.lendingtree.com
 brand.adp.ca
+brandcasters.com
 brands.cambrio.com
 brands.lookfantastic.com
 brands.picklebutnotcucumber.com
@@ -6632,6 +6634,7 @@ cafefrench.com
 cafejunior.net
 cafescampfires.com
 cafirebreather.com
+cageylogic.com
 cagkpu.suitdirect.co.uk
 cakeagenda.com
 cakesdrum.com
@@ -7927,6 +7930,7 @@ cr-relay.com
 crabbychin.com
 craftessays.com
 crafthenry.com
+crashbamboo.com
 crashchance.com
 crashpandas.com
 cratecamera.com
@@ -10432,6 +10436,7 @@ etwovr.underarmour.eu
 etx.indiatimes.com
 eu-1-id5-sync.com
 eu-mobile.events.data.microsoft.com
+eu-office.events.data.microsoft.com
 euapp.levi.com
 euclid.kuula.co
 eufunding.ukri.org
@@ -12333,6 +12338,7 @@ honeybutterbliss.com
 honeyscene.com
 honorablehydrant.com
 honorableland.com
+hoofersailing.com
 hoojts.demmelhuber.net
 hookconference.com
 hoorayplay.com
@@ -28292,6 +28298,7 @@ stats.jasonludden.dev
 stats.jdheyburn.co.uk
 stats.jerickson.net
 stats.jhsheridan.com
+stats.jiosaavn.com
 stats.jjude.com
 stats.jkdesa.com
 stats.joaopedro.dev
@@ -30026,6 +30033,7 @@ tms.hft.everyplate.com
 tms.hft.goodchop.com
 tms.hft.greenchef.com
 tms.hft.hellofresh.com
+tms.wape.autodesk.com
 tmt.intelligence.informa.com
 tmvasapp.fitnessyard.com
 tmx.bestbuy.com
@@ -30582,6 +30590,7 @@ tracking.digitalid.co.uk
 tracking.digitalocean.com
 tracking.direxion.com
 tracking.dominanteladies.de
+tracking.dpmlol.com
 tracking.drreddys.com
 tracking.dshb.biology.uiowa.edu
 tracking.dsmmadvantage.com

@@ -15845,6 +15845,7 @@ logtail.com
 logtake.weidian.com
 logx-experimentation.iherb.com
 logx.optimizely.com
+loki-ingest.fox.com
 lonelyflavor.com
 longingtrees.com
 longloops.com
@@ -21443,6 +21444,7 @@ procollecting.com
 procroanalytics.com
 procurement.cipscomms.org
 prod-events.nykaa.com
+prod-foxkit.kts.fox
 prod.ew.srp.navigacloud.com
 prod.fennec.atp.fox
 prod.nitrosniffer.ottogroup.io

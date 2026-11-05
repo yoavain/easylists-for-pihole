@@ -8705,6 +8705,7 @@ data1.virginmobile.ca
 data1.virginplus.ca
 data2.gosquared.com
 datacollector-dra.dt.hicloud.com
+dataconsumed.com
 datadog-service.mvfglobal.com
 datadome.maisonsdumonde.com
 datafiletechnologies.actonservice.com
@@ -9015,6 +9016,7 @@ dialogue.mazda.si
 dialogue.mazda.sk
 dialogue.nl.mazda.be
 dicecandies.com
+dicezing.com
 didzrr.nutraholic.com
 difficultfog.com
 dig.lianjia.com
@@ -12358,7 +12360,6 @@ hopeful.coh.org
 horacemann.actonservice.com
 horizon-track.globo.com
 horizon.globo.com
-horizoneurope.ukri.org
 horizononline.actonservice.com
 hospitablehall.com
 hospitablehat.com
@@ -18552,6 +18553,7 @@ metrics.juiceplus.com
 metrics.kadcyla.com
 metrics.kaercher.com
 metrics.kao.com
+metrics.kapa.ai
 metrics.kayosports.com.au
 metrics.kempinski.com
 metrics.kennethcole.com
@@ -19875,6 +19877,7 @@ ni8.lafuma.com
 niblewren.co
 nicefollows.com
 nicehuh.com
+nicemenswear.com
 nid.mansionglobal.com
 nid.thesun.co.uk
 nid.thetimes.com
@@ -20123,6 +20126,7 @@ obhnrw.furniturebox.se
 obhxvb.tmktools.ru
 objecthero.com
 objectpartners.actonservice.com
+objsoftware.com
 oblivionfleet.com
 obnrap.neimanmarcus.com
 obooom.robinmaybag.com
@@ -20251,6 +20255,7 @@ omgthink.com
 omgup.didiglobal.com
 omgup.xiaojukeji.com
 omgup1.xiaojukeji.com
+ominousmusic.com
 omjtca.emlakjet.com
 omn.americanexpress.com
 omn.costumesupercenter.com
@@ -20496,6 +20501,7 @@ open.wynk.in
 openfpcdn.io
 operationchicken.com
 operationnail.com
+operawise.com
 ophan.theguardian.com
 opim.pixmania.com
 oply.hearstapps.com
@@ -20831,6 +20837,7 @@ pawsnug.com
 pawsplus.actonservice.com
 pay.truemoney.me
 paydashboard.actonservice.com
+payiris.com
 payments.acutx.org
 payments.americanexpress.co.uk
 paymentslink.dropp.cc
@@ -20888,6 +20895,7 @@ peakcreator.com
 peards.zevvle.com
 pearpouch.com
 peatfarming.com
+pedaldudes.com
 pedropanther.com
 peeringhost.net
 pegasus.unifygroup.com

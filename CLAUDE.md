@@ -46,8 +46,8 @@ raw/                    # intermediate raw downloads (gitignored, created during
 - `parse()` — reads `getInput()`, fetches each URL in parallel, saves raw text to `raw/<target>-input<N>.txt`, applies `filterDomains`, merges across multiple sources per target, deduplicates, sorts, writes to `generated/<name>.txt`. Returns a `Stats` map of source URL -> domain count.
 - Special case: any source URL ending in `EasyListHebrew.txt` gets `buyme.co.il` appended before dedup.
 
-### HTTP client (`got`, pinned to 11.8.6)
-`got` is the only runtime dependency, and both the choice and the pin are deliberate. Native `fetch` aborts the process on the `easylist.to` sources (undici parser bug, unfixable on the Node 24 line), and `got` 11.8.6 is the last CommonJS release. Do not "modernize" either one without reading `docs/http-client.md` — it records the evidence, the Node 26.5.0 threshold that unblocks `fetch`, and a one-line repro to re-check.
+### HTTP client (native `fetch`)
+The repo has zero runtime dependencies. `fetchText` in `src/parser.ts` wraps native `fetch` with a non-2xx guard and retries. Node >= 26.5.0 is required: older undici aborts the process on the `easylist.to` sources. Do not lower `engines.node` or add an HTTP library without reading `docs/http-client.md`.
 
 ### Adding a new list
 Edit `resources/input.ts`: add a new key (becomes the output filename) with an array of source URLs.

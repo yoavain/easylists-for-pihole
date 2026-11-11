@@ -23,16 +23,52 @@ jest.mock("path", function() {
     };
 });
 
-jest.mock("got", () => ({
-    get: (url) => ({
-        text: () => [`||aaa.bb.cc.${url}^`, `||xxx.yy.zz.${url}^$`].join("\n")
-    })
-}));
+const mockFetch = jest.fn();
+global.fetch = mockFetch;
+
+const okResponse = (text: string) => ({ ok: true, status: 200, statusText: "OK", text: async () => text });
+const errorResponse = (status: number, statusText: string) => ({ ok: false, status, statusText, text: async () => "<html>error</html>" });
 
 import type { Stats } from "~src/parser";
-import { filterDomains, parse } from "~src/parser";
+import { fetchText, filterDomains, parse } from "~src/parser";
 
 describe("Test parser", () => {
+
+    describe("Test fetchText", () => {
+        beforeEach(() => {
+            jest.useFakeTimers();
+            mockFetch.mockReset();
+        });
+        afterEach(() => {
+            jest.useRealTimers();
+        });
+        it("Should return the body of a successful response", async () => {
+            mockFetch.mockResolvedValueOnce(okResponse("body"));
+            await expect(fetchText("urlX")).resolves.toBe("body");
+            expect(mockFetch).toHaveBeenCalledTimes(1);
+        });
+        it("Should throw on a non-retryable status without retrying", async () => {
+            mockFetch.mockResolvedValue(errorResponse(404, "Not Found"));
+            await expect(fetchText("urlX")).rejects.toThrow("Failed to fetch urlX: 404 Not Found");
+            expect(mockFetch).toHaveBeenCalledTimes(1);
+        });
+        it("Should retry a retryable status and then succeed", async () => {
+            mockFetch.mockResolvedValueOnce(errorResponse(503, "Service Unavailable"));
+            mockFetch.mockResolvedValueOnce(okResponse("body"));
+            const result: Promise<string> = fetchText("urlX");
+            await jest.advanceTimersByTimeAsync(1000);
+            await expect(result).resolves.toBe("body");
+            expect(mockFetch).toHaveBeenCalledTimes(2);
+        });
+        it("Should retry a network error and give up after the retry limit", async () => {
+            mockFetch.mockRejectedValue(new Error("socket hang up"));
+            const result: Promise<string> = fetchText("urlX");
+            const assertion = expect(result).rejects.toThrow("socket hang up");
+            await jest.advanceTimersByTimeAsync(3000);
+            await assertion;
+            expect(mockFetch).toHaveBeenCalledTimes(3);
+        });
+    });
 
     describe("Test filterDomains", () => {
         it("Should opt-in only domains with leading '||'", () => {
@@ -82,6 +118,8 @@ describe("Test parser", () => {
     describe("Test parse", () => {
         beforeEach(() => {
             jest.clearAllMocks();
+            mockFetch.mockReset();
+            mockFetch.mockImplementation(async (url: string) => okResponse([`||aaa.bb.cc.${url}^`, `||xxx.yy.zz.${url}^$`].join("\n")));
         });
         afterAll(() => {
             jest.restoreAllMocks();

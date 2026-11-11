@@ -30,21 +30,18 @@
     },
     "homepage": "https://github.com/yoavain/easylists-for-pihole#readme",
     "engines": {
-        "node": ">= 24",
+        "node": ">= 26.5.0",
         "npm": ">= 11"
-    },
-    "dependencies": {
-        "got": "11.8.6"
     },
     "devDependencies": {
         "@eslint/compat": "2.1.1",
         "@eslint/eslintrc": "3.3.7",
         "@eslint/js": "9.39.5",
-        "@tsconfig/node24": "24.0.5",
+        "@tsconfig/node26": "26.0.1",
         "@types/jest": "30.0.0",
-        "@types/node": "24.19.2",
-        "@typescript-eslint/eslint-plugin": "8.72.0",
-        "@typescript-eslint/parser": "8.72.0",
+        "@types/node": "26.6.5",
+        "@typescript-eslint/eslint-plugin": "8.72.1",
+        "@typescript-eslint/parser": "8.72.1",
         "@typescript/native": "npm:typescript@7.0.2",
         "eslint": "9.39.5",
         "eslint-import-resolver-typescript": "4.4.5",

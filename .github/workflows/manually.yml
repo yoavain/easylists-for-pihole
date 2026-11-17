@@ -1,6 +1,11 @@
 name: Manual Build
 
 on: workflow_dispatch
+
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   manual-build:
     runs-on: ubuntu-latest
@@ -77,12 +82,14 @@ jobs:
 
       - name: Open Pull Request
         if: ${{ env.CHANGED == 'true' }}
-        uses: vsoch/pull-request-action@1.1.1
+        run: |
+          if [ -z "$(gh pr list --head generated --base main --state open --json number --jq '.[].number')" ]; then
+            gh pr create --base main --head generated \
+              --title 'Easylist generated files' \
+              --body 'Automated update of the generated blocklists.'
+          fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_PREFIX: 'generated'
-          PULL_REQUEST_FROM_BRANCH: 'generated'
-          PULL_REQUEST_BRANCH: 'main'
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Find Pull Request
         if: ${{ env.CHANGED == 'true' }}

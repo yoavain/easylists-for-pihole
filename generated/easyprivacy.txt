@@ -8362,6 +8362,7 @@ data.campaigns.cineplex.com
 data.campaigns.colonialfirststate.com.au
 data.campaigns.mediasuper.com.au
 data.campaigns.therecroom.com
+data.cdnbasket.net
 data.chelseafc.com
 data.circulate.com
 data.cliente.clubeextra.com.br
@@ -20727,6 +20728,7 @@ pacstainless.actonservice.com
 page-events-ustats.udemy.com
 page.asraymond.com
 page.care.salinasvalleyhealth.com
+page.cdnbasket.net
 page.email.key.com
 page.ephesus.cooperlighting.com
 page.evergage.com
@@ -27258,6 +27260,7 @@ spoonballoon.com
 spoonsilk.com
 sportsclubstat.com
 sportsnearby.com
+sportswidows.com
 sportybrains.com
 sportyforum.com
 spotlersearchanalytics.com
@@ -30195,6 +30198,7 @@ top3.inhaabit.com
 topcrazypress.com
 topicalcartel.com
 topicjungle.com
+topicspin.com
 toplaunch.net
 topratedwaterfilter.com
 topsecretapp.net
@@ -31291,6 +31295,7 @@ tredir.go.com
 treeoflifecenterus.actonservice.com
 tremendousplastic.com
 tremendoustime.com
+trendcone.com
 trends.newsmaxwidget.com
 trends.privacywall.org
 triadtechnologies.actonservice.com
@@ -32506,11 +32511,13 @@ videostats.kakao.com
 vidfiles.net.mydays.de
 view.americanbuildings.com
 view.aon.com
+view.cdnbasket.net
 view.centria.com
 view.fujitv.co.jp
 view.kirbybuildingsystems.com
 view.metlspan.com
 view.nucorbuildingsystems.com
+view.publitas.com
 viewer.pandasuite.io
 viewresource.com
 views.arabnews.com
@@ -32560,6 +32567,7 @@ visitors.gigianddavid.com
 visitping.rossel.be
 vismaturva.visma.fi
 visor.sberbank.ru
+vistacool.net
 visualcommservices.com
 visualscience.external.bbc.co.uk
 vitalimages.actonservice.com
@@ -32703,6 +32711,7 @@ wal.wolfram.com
 walkourworld.com
 wallet.chain.com
 wamahe.wokularach.pl
+wanmatures.com
 wantingwindow.com
 wap.mylifetime.com
 wapn1.flosports.tv
@@ -32733,6 +32742,7 @@ watch.stctv.com
 watch.vipa.me
 watchtower.graindata.com
 water.tetrapak.com
+waterloco.com
 waterlooberlin.viessmann.ca
 waterywave.com
 watg.xxxlutz.com
@@ -32744,6 +32754,7 @@ wavesimple.com
 wavesmachine.com
 wavrlh.cedok.cz
 wavzlt.michaelstars.com
+waxguide.com
 waxsirens.com
 wayjoyfarm.com
 waylowrates.net

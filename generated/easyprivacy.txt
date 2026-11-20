@@ -3871,6 +3871,7 @@ analytics-ipv6.tiktokw.us
 analytics-lgs.corebridgefinancial.com
 analytics-nssl.bradyid.com
 analytics-prd.aws.wehaa.net
+analytics-prod.pubgen.org
 analytics-production.hapyak.com
 analytics-proxy.springboard.com
 analytics-scripts.cablelabs.com
@@ -9046,6 +9047,7 @@ dig.ultimedia.com
 digestiondrawer.com
 digi-ping.com
 digicard.jollyhires.com
+digifaro-digital.uk.monitoringsolutions.sky
 digistat.westjet.com
 digistats.westjet.com
 digital-engineering.de
@@ -10578,6 +10580,7 @@ eventos.emkt.ingressorapido.com.br
 eventos.mirecweek.com
 eventos.ubmmexico.com
 eventos.usj.es
+eventpiper.vlcapi.net
 events-endpoint.pointandplace.com
 events-ingestion-helpcenter.services.gorgias.help
 events-logs.doctolib.com
@@ -11209,6 +11212,7 @@ forms.xtralis.com
 forms2.vistage.com
 fortbeach.com
 fortunatemark.com
+fortyninemaps.com
 forwardslashetc.com
 fossilzero.com
 fourier.alibaba.com
@@ -12557,6 +12561,7 @@ icywinter.com
 id-ward.com
 iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
+ideamornings.com
 ideas.nanawall.com
 identification.hotmart.com
 identitypxl.app
@@ -14862,6 +14867,7 @@ libraryfacts.com
 libraryvalue.com
 librato-collector.genius.com
 licensinginsights.ascap.com
+lidsmarket.com
 lieudetravail.ricoh.fr
 lifecoverdirect.com
 lifestyle.edm.globalsources.com
@@ -17540,6 +17546,7 @@ marty.zappos.com
 mas.hronboard.me
 mas.marsh.com
 mas.nth.ch
+mascguys.com
 maskedadmin.com
 masseurexpress.com
 massivemark.com
@@ -32531,7 +32538,6 @@ view.fujitv.co.jp
 view.kirbybuildingsystems.com
 view.metlspan.com
 view.nucorbuildingsystems.com
-view.publitas.com
 viewer.pandasuite.io
 viewresource.com
 views.arabnews.com

@@ -1,44 +1,41 @@
 {
-    "extends": ["config:base"],
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": ["config:recommended", "helpers:pinGitHubActionDigests"],
     "labels": ["renovate", "dependencies"],
-    "packageRules": [
-        {
-            "matchPackageNames": ["eslint"],
-            "matchPackagePatterns": ["^eslint-plugin", "^@typescript-eslint/"],
-            "groupName": "eslint packages",
-            "updateTypes": ["minor", "patch"],
-            "automerge": true
-        },
-        {
-            "matchPackageNames": ["typescript", "@typescript/native", "ts-jest"],
-            "matchPackagePatterns": ["^@tsconfig/"],
-            "groupName": "typescript packages",
-            "updateTypes": ["minor", "patch"],
-            "automerge": true
-        },
-        {
-            "matchPackageNames": ["jest", "@types/jest"],
-            "groupName": "jest packages",
-            "updateTypes": ["minor", "patch"],
-            "automerge": true
-        },
-        {
-            "depTypeList": ["dependencies"],
-            "labels": ["dependencies"],
-            "updateTypes": ["minor", "patch"],
-            "automerge": true
-        },
-        {
-            "depTypeList": ["devDependencies"],
-            "labels": ["dev-dependencies"],
-            "updateTypes": ["minor", "patch"],
-            "automerge": true
-        }
-    ],
-    "prConcurrentLimit": 5,
     "timezone": "Asia/Jerusalem",
+    "prConcurrentLimit": 5,
+    "minimumReleaseAge": "14 days",
+    "internalChecksFilter": "strict",
     "lockFileMaintenance": {
         "enabled": true,
-        "schedule": "after 10pm on saturday"
-    }
+        "schedule": ["* 0-3 1 * *"]
+    },
+    "packageRules": [
+        {
+            "matchManagers": ["npm"],
+            "matchDepTypes": ["dependencies"],
+            "matchUpdateTypes": ["minor", "patch"],
+            "groupName": "minor runtime dependencies",
+            "groupSlug": "update-minor-runtime-dependencies",
+            "labels": ["dependencies"]
+        },
+        {
+            "matchManagers": ["npm"],
+            "matchDepTypes": ["devDependencies"],
+            "matchUpdateTypes": ["minor", "patch"],
+            "groupName": "minor dev dependencies",
+            "groupSlug": "update-minor-dev-dependencies",
+            "labels": ["dev-dependencies"]
+        },
+        {
+            "matchUpdateTypes": ["lockFileMaintenance", "replacement", "pin"],
+            "minimumReleaseAge": null
+        },
+        {
+            "matchManagers": ["npm"],
+            "matchPackageNames": ["@types/node", "/^@tsconfig\\/node/"],
+            "matchUpdateTypes": ["major", "replacement"],
+            "enabled": false
+        }
+    ]
 }

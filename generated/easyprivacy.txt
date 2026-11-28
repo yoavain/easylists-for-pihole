@@ -3586,6 +3586,7 @@ affiliate.kinguin.net
 affiliate.logitravel.com
 affiliate.ouchi.coop
 affiliate.petitwedding.com
+affiliates.purevpn.com
 afhjxb.flaconi.de
 afhleads.keurig.ca
 afi.iino.life
@@ -8381,6 +8382,7 @@ data.campaigns.therecroom.com
 data.cdnbasket.net
 data.chelseafc.com
 data.circulate.com
+data.clickocean.io
 data.cliente.clubeextra.com.br
 data.clientemais.paodeacucar.com
 data.clientes.caixabankpc.com
@@ -17593,6 +17595,7 @@ materialparcel.com
 math.meistercody.com
 matheranalytics.com
 mathilde-ads.com
+mathrevolt.com
 mato.clanto.cloud
 matomo.clanto.cloud
 matomo3.org
@@ -17871,6 +17874,7 @@ melodiouscomposition.com
 melodiousharmony.com
 melodioussymphony.com
 melodyglobe.com
+melodyivory.com
 meltmilk.com
 member-app.rightwayhealthcare.com
 member.usenix.org
@@ -17906,6 +17910,7 @@ message.sonicwall.com
 messagelists.com
 messages.blackhat.com
 messmonster.com
+messrod.com
 messyoranges.com
 mesure-pro.engie.fr
 met.jasperforge.org
@@ -19562,6 +19567,7 @@ monitor.agenedia.com
 monitor.ebay.com
 monitor.fraudblocker.com
 monitor.music.qq.com
+monitor.tapper.ai
 monitoring.iraiser.eu
 monkeyapes.com
 monkeystyping.com
@@ -19757,6 +19763,7 @@ mysite.webroot.com
 mysketchpad.com
 mystery.vfmleonardo.com
 mysticalagoon.com
+mythweaver.net
 mywebpage.ni.com
 mzldzb.crocs.pl
 mzwkss.chiccousa.com
@@ -20997,6 +21004,7 @@ pegsbuttons.com
 pehkmy.edreams.pt
 peiq.services
 pemskb.unitedcinemas.jp
+penbuzz.com
 people.mbtionline.com
 peoplebrain.net
 peoplehr.actonservice.com
@@ -21110,6 +21118,7 @@ pitatisisminis.openapp.link
 pitcher.actonservice.com
 pitmanmusic.com
 pittaking.openapp.link
+pivotfresh.com
 pivotpointsecurity.actonservice.com
 pix.airbusgroup.com
 pix.eads.com
@@ -32104,6 +32113,7 @@ user.userguiding.com
 userballot.com
 userexperience.thehut.net
 users.rentbabe.com
+usersays.com
 usersegment.wpdigital.net
 usgzei.vidaxl.ch
 usingyourcard.americanexpress.co.uk
@@ -33204,6 +33214,7 @@ wizardstrategy.com
 wjssvg.descentekorea.co.kr
 wjtekf.vidaxl.bg
 wjzyrk.magiclife.com
+wkbrs1.tingyun.com
 wkctj.baidu.com
 wklwyt.springer.com
 wknd.ai

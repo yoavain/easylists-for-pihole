@@ -16,10 +16,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v7.0.1
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Setup NodeJS
-        uses: actions/setup-node@v7
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
         with:
           node-version: ${{ matrix.node-version }}
           cache: npm
@@ -48,7 +48,7 @@ jobs:
           CI: true
 
       - name: Save artifacts
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7
         with:
           name: easylist-for-pi-hole
           path: generated/
@@ -56,7 +56,7 @@ jobs:
       ## FIX: https://github.com/github-actions-x/commit/issues/16
       ## https://github.com/rlespinasse/git-commit-data-action
       - name: Expose git commit data
-        uses: rlespinasse/git-commit-data-action@v1.5.1
+        uses: rlespinasse/git-commit-data-action@d3d5d8e0de9e9545cb1fadd33f9664db98c64cc7 # v1.5.1
       - name: Set git author
         run: git config user.email "${{ env.GIT_COMMIT_AUTHOR_EMAIL }}" && git config user.name "${{ env.GIT_COMMIT_AUTHOR_NAME }}"
       ## /FIX
@@ -93,7 +93,7 @@ jobs:
 
       - name: Find Pull Request
         if: ${{ env.CHANGED == 'true' }}
-        uses: juliangruber/find-pull-request-action@v1
+        uses: juliangruber/find-pull-request-action@0d2ca757412e2742b5cd5ce4ff56757c65652605 # v1
         id: find-pull-request
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -101,7 +101,7 @@ jobs:
 
       - name: Merge Pull Request
         if: ${{ env.CHANGED == 'true' }}
-        uses: juliangruber/merge-pull-request-action@v1.4.0
+        uses: juliangruber/merge-pull-request-action@8325c6102b479a25200b2ecbede066b1ac3e2feb # v1.4.0
         with:
           number: ${{ steps.find-pull-request.outputs.number }}
           method: squash
